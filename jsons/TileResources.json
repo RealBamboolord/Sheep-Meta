@@ -1,15 +1,4 @@
 [
-/*{
-	"name": "Cattle",
-	"resourceType": "Bonus",
-	"terrainsCanBeFoundOn": ["Grassland"],
-	"food": 1,
-	"improvement": "Pasture",
-	"improvementStats": {"production": 1},	
-        "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>",
-	"Generated on every [22] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>"]
-	},
-*/
 {	
 	"name": "Sheep",	
 	"resourceType": "Bonus",	
@@ -49,15 +38,5 @@
                 "Generated on every [1] tiles <in [Mount Sinai] tiles>",
                 "Generated on every [1] tiles <in [Sri Pada] tiles>",
                 "Generated on every [1] tiles <in [Uluru] tiles>",
-/*                "Generated on every [1] tiles <in [Grassland] tiles>",
-                "Generated on every [1] tiles <in [Grassland] tiles>",
-                "Generated on every [1] tiles <in [Grassland] tiles>",
-                "Generated on every [1] tiles <in [Grassland] tiles>",
-                "Generated on every [1] tiles <in [Grassland] tiles>",
-                "Generated on every [1] tiles <in [Grassland] tiles>",
-                "Generated on every [1] tiles <in [Grassland] tiles>",
-             "Generated on every [1] tiles <in [Grassland] tiles>",
-
-*/
 	},
 ]
