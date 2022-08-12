@@ -6,7 +6,7 @@
 	"food": 1,	
 	"improvement": "Pasture",	
 	"improvementStats": {"food": 1},	
-	"uniques": ["Generated on every [1] tiles <in [Hill] tiles>",
+/*	"uniques": ["Generated on every [1] tiles <in [Hill] tiles>",
                 "Generated on every [1] tiles <in [Featureless] [Grassland] tiles>",
                 "Generated on every [1] tiles <in [Featureless] [Ocean] tiles>",
                 "Generated on every [1] tiles <in [Featureless] [Coast] tiles>",
@@ -37,7 +37,7 @@
                 "Generated on every [1] tiles <in [Mount Kailash] tiles>",
                 "Generated on every [1] tiles <in [Mount Sinai] tiles>",
                 "Generated on every [1] tiles <in [Sri Pada] tiles>",
-                "Generated on every [1] tiles <in [Uluru] tiles>",
+                "Generated on every [1] tiles <in [Uluru] tiles>", */
 	]
 }
 ]
