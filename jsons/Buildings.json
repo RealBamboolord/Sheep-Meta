@@ -1,0 +1,23 @@
+[
+{
+		"name": "Battle Sheep Statue",
+		"replaces": "Monument",
+		"uniqueTo": "Sheep Domination",
+		"culture": 1,
+		"happiness": 2,
+		"cost": 50,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["[+25]% Production when constructing [Land] units [in this city]"]	
+},
+{
+"name": "Sheep Superiority Monument"
+"replaces": "National Epic"
+"uniqueTo": "Latino Sheep"
+"isNationalWonder": true,
+"culture": 1,
+"cost": 100,
+"uniques": ["Free Social Policy", "[-10]% Unhappiness from [Population] [in this city]"],
+"requiredTech": "The Wheel"
+}
+]
