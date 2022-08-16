@@ -1,9 +1,11 @@
-{
+[
+	{
 		"name": "Shepherd",
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Can construct [Pasture]", "Double movement in [Sheep]", "Can pass through impassable tiles"],
 		"cost": 40,
-    "requiredTech": "The Wheel",
+		"requiredTech": "The Wheel",
 		"promotions": ["Ignore terrain cost"],
 	},
+]
