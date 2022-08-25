@@ -14,7 +14,8 @@
 		"movement": 2,
 		"strength": 9,
 		"cost": 75,
-		"uniques": ["Never appears as a Barbarian unit", "Can see over obstacles"],
+		"uniques": ["Never appears as a Barbarian unit", "Can see over obstacles", "Only available <if [Sheep Training] is constructed>"]
+
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
@@ -25,7 +26,7 @@
 "strength": 5,
 "rangedStrength": 12
 "cost": 100,
-"uniques": ["No defensive terrain bonus", "Can move after attacking",
+"uniques": ["No defensive terrain bonus", "Can move after attacking", "Only available <if [Sheep Training] is constructed>",
 	"All tiles cost 1 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit"],
 "requiredTech": "Optics",
 },		
