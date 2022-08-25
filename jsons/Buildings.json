@@ -8,7 +8,7 @@
 		"cost": 50,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["[+25]% Production when constructing [Land] units [in this city]"]	
+		"uniques": ["[+25]% Production when constructing [Land] units [in this city]", "New [Military] units start with [5] Experience [in this city]"]	
 },
 {
 		"name": "Sheep Superiority Monument"
@@ -31,4 +31,9 @@
 			"Cost increases by [30] per owned city", "Free [Great Merchant] appears",],
 		"requiredTech": "Iron Working"
 	},
+////////////////Sheep Unit buildings//////////////////
+{
+"name": "Sheep Training",
+"Cost": 0,
+"uniques": ["Allows production of Battle Sheeps", "Destroyed when the city is captured", "Unbuildable", "New [Battlesheep] units start with [15] Experience [in this city]"
 ]
