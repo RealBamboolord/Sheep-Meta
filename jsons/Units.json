@@ -14,8 +14,8 @@
 		"movement": 2,
 		"strength": 9,
 		"cost": 75,
-		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost", "Can see over obstacles"],
+		"uniques": ["Never appears as a Barbarian unit", "Can see over obstacles"],
+		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
 ]
