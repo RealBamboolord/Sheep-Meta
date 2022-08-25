@@ -2,22 +2,22 @@
 {
  "name": "Land Sheep",
  "movementType": "Land",
- "uniques": ["Sheep"]
+ "uniques": ["Sheep", "Only available <if [Sheep Training] is constructed>",]
  },
 {
  "name": "Water Sheep",
  "movementType": "Water",
- "uniques": ["Sheep"]
+ "uniques": ["Sheep", "Only available <if [Sheep Training] is constructed>",]
  },
 {
  "name": "Air Sheep",
  "movementType": "Air",
- "uniques": ["Sheep"]
+ "uniques": ["Sheep", "Only available <if [Sheep Training] is constructed>",]
  },
 {
  "name": "Airborne Sheep",
  "movementType": "Land",
- "uniques": ["Sheep"]
+ "uniques": ["Sheep", "Only available <if [Sheep Training] is constructed>",]
  },
 {
  "name": "Wolfantisheep",
