@@ -23,7 +23,7 @@
 	"innerColor": [255, 255, 255],	
 //	"favoredReligion": "The Meta",	
 	"uniqueName": "Sheep Domination",	
-	"uniques": ["[+1 Food] from every [Sheep]", "[+1 Production] from every Sheep", "[+20]% [Production] <while the empire is happy>"],	
+	"uniques": ["[+1 Food, +1 Production] from every [Sheep]", "[+20]% [Production] <while the empire is happy>"],	
 	"cities": ["Sheep Town", "Skek Pasture", "Dog's Agriculture"]	
 },
 
@@ -51,7 +51,7 @@
 	"innerColor": [255, 255, 255],	
 //	"favoredReligion": "The Meta",	
 	"uniqueName": "Sheep Domination",	
-	"uniques": ["[+1 Culture] from every [Sheep]", "[+1 Happiness] from every Sheep", "[+20]% [Culture] <while the empire is happy>"],	
+	"uniques": ["[+1 Culture, +1 Happiness] from every [Sheep]", "[+20]% [Culture] <while the empire is happy>"],	
 	"cities": ["Shoop Town", "Arepa plains", "Caballero-Arepa-City"]	
 },
 {
@@ -73,7 +73,7 @@
 		"innerColor": [255, 0, 255],
 	//	"favoredReligion": "The Meta",
 		"uniqueName": "Absolut Meta",
-		"uniques": ["[+1 Culture] from every [Sheep]", "[+2 Gold] from every Sheep", "Resting point for Influence with City-States is increased by [20] <while the empire is happy>"],
+		"uniques": ["[+1 Culture, +2 Gold] from every [Sheep]", "Resting point for Influence with City-States is increased by [20] <while the empire is happy>"],
 		"cities": ["Absolute Town", "AU City", "Pink Unit"]
 	},
 ]
