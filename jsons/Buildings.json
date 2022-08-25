@@ -42,4 +42,43 @@
 "New [Sheep] units start with [15] Experience [in this city]",
 "Will not be displayed in Civilopedia"]
 },
+{
+		"name": "Palace Meta",
+                "replaces": "Palace",
+		"uniqueTo": "Sheep Meta",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]"]
+	},
+{
+		"name": "Palace LS",
+                "replaces": "Palace"
+		"uniqueTo": "Latino Sheep"
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]"]
+	},
+{
+		"name": "Palace AS",
+                "replaces": "Palace"
+                "uniqueTo": "Absolute Sheeple"
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]"]
+	},
 ]
