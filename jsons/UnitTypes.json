@@ -1,19 +1,23 @@
 [
 {
  "name": "Land Sheep",
- "movementType": "Land"
+ "movementType": "Land",
+ "uniques": ["Sheep"]
  },
 {
  "name": "Water Sheep",
- "movementType": "Water"
+ "movementType": "Water",
+ "uniques": ["Sheep"]
  },
 {
  "name": "Air Sheep",
- "movementType": "Air"
+ "movementType": "Air",
+ "uniques": ["Sheep"]
  },
 {
  "name": "Airborne Sheep",
- "movementType": "Land"
+ "movementType": "Land",
+ "uniques": ["Sheep"]
  },
 {
  "name": "Wolfantisheep",
