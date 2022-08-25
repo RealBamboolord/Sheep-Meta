@@ -53,7 +53,7 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]"]
+		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]", "Will not be displayed in Civilopedia"]
 	},
 {
 		"name": "Palace LS",
@@ -66,7 +66,7 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]"]
+		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]", "Will not be displayed in Civilopedia"]
 	},
 {
 		"name": "Palace AS",
@@ -79,6 +79,6 @@
 		"culture": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]"]
+		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]", "Will not be displayed in Civilopedia"]
 	},
 ]
