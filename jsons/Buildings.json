@@ -35,5 +35,10 @@
 {
 "name": "Sheep Training",
 "Cost": 0,
-"uniques": ["Allows production of Battle Sheeps", "Destroyed when the city is captured", "Unbuildable", "New [Battlesheep] units start with [15] Experience [in this city]"
+"uniques": [
+"Allows production of Battle Sheeps", 
+"Destroyed when the city is captured", 
+"Unbuildable", 
+"New [Battlesheep] units start with [15] Experience [in this city]"]
+},
 ]
