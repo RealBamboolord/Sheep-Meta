@@ -36,10 +36,10 @@
 "name": "Sheep Training",
 "Cost": 0,
 "uniques": [
-"Allows production of Battle Sheeps", 
+"Allows production of Sheep Units", 
 "Destroyed when the city is captured", 
 "Unbuildable", 
-"New [Battlesheep] units start with [15] Experience [in this city]",
+"New [Sheep] units start with [15] Experience [in this city]",
 "Will not be displayed in Civilopedia"]
 },
 ]
