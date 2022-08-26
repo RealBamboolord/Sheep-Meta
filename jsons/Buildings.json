@@ -31,6 +31,17 @@
 			"Cost increases by [30] per owned city", "Free [Great Merchant] appears",],
 		"requiredTech": "Iron Working"
 	},
+{
+		"name": "Sheep School",
+                "replaces": "Circus"
+                "uniqueTo": "Welsheep"
+		"requiredNearbyImprovedResources": ["Sheep"],
+		"happiness": 1,
+                "science": 1,
+		"specialistSlots": {"Scientist": 1},
+		"hurryCostModifier": 25,
+		"requiredTech": "Trapping"
+	},
 ////////////////Sheep Unit buildings//////////////////
 {
 "name": "Sheep Training",
@@ -72,6 +83,19 @@
 		"name": "Palace AS",
                 "replaces": "Palace"
                 "uniqueTo": "Absolute Sheeple"
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]", "Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Palace Welsheep",
+                "replaces": "Palace"
+                "uniqueTo": "Welsheep"
 		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
