@@ -6,7 +6,7 @@
 	},
 {
 		"name": "March",
-		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Herd II"],
+		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Herd II","Reaping"],
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Mounted", "Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
 	},
@@ -21,4 +21,26 @@
 "uniques": ["[+25]% Strength"],
 "unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
 },
+{
+"name": "Haycutting",
+"uniques": ["[+10]% Strength <vs [Mounted] units>", "Access to Reaper promotions"],
+},
+{
+"name": "Harvesting",
+"prerequisites": ["Haycutting"],
+"uniques": ["Heals [10] damage if it kills a unit", "No movement cost to pillage"],
+"unitTypes": ["Land Sheep"],
+},
+{
+"name": "Reaping",
+"prerequisites": ["Harvesting"],
+"uniques": ["Heals [20] damage if it kills a unit", "[+50]% Strength <vs [Wounded] units><when attacking>"]
+"unitTypes": ["Land Sheep"],
+},
+
+
+
+
+
+
 ]
