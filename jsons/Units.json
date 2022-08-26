@@ -50,7 +50,7 @@
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Never appears as a Barbarian unit",
 			"Must set up to ranged attack", "[-1] Sight", "Sheep", "Only available <if [Sheep Training] is constructed>"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
@@ -65,9 +65,38 @@
 		//"obsoleteTech": "Civil Service",
 		//"upgradesTo": "Pikeman",
                 "requiredResource": "Iron",
-		"uniques": ["[+60]% Strength <vs [Sheep] units>", "Limited to [3] per Civilization"],
+		"uniques": ["[+60]% Strength <vs [Sheep] units>", "Limited to [3] per Civilization", "Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"
 	},
+///Reapers///
+{
+"name": "Haycutter",
+"unitType": "Land Sheep",
+"movement": 2,
+"strength": 10,
+"cost": 56,
+"requiredTech": "Calendar",
+"obsoleteTech": "Drama and Poetry",
+"upgradesTo": "Harvester",
+"promotions": ["Haycutting"],
+"uniques": ["Never appears as a Barbarian unit"],
+"attackSound": "nonmetalhit",
+},
+{
+"name": "Harvester",
+"unitType": "Land Sheep",
+"movement": 2,
+"strength": 16,
+"cost": 75
+"requiredTech": "Drama and Poetry",
+"promotions": ["Haycutting"],
+"uniques": ["Never appears as a Barbarian unit"],
+"attackSound": "metalhit",
+},
+//Reaper
+
+
+
 
 
 
