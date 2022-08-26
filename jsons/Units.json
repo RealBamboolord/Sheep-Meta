@@ -37,10 +37,24 @@
 "movement": 3,
 "strength": 11,
 "cost": 56,
-"uniques": ["Never appears as a Barbarian unit", "Can build [Pasture] improvements on tiles"],
+"uniques": ["Never appears as a Barbarian unit", "Can build [Pasture] improvements on tiles", "Only available <if [Sheep Training] is constructed>"],
 "requiredTech": "Sailing",
 },
-
+{
+		"name": "Baahlista",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 10,
+		"cost": 75,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+			"Must set up to ranged attack", "[-1] Sight", "Sheep", "Only available <if [Sheep Training] is constructed>"],
+		"hurryCostModifier": 20,
+		"attackSound": "throw"
+	},
 
 
 
