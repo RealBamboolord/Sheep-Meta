@@ -3,7 +3,7 @@
 		"name": "Shepherd",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Can construct [Pasture]", "Double movement in [Sheep]", "Can pass through impassable tiles"],
+		"uniques": ["Can build [Pasture] improvements on tiles", "Double movement in [Sheep]", "Can pass through impassable tiles"],
 		"cost": 40,
 		"requiredTech": "The Wheel",
 		"promotions": ["Ignore terrain cost"],
@@ -13,7 +13,7 @@
 		"unitType": "Land Sheep",
 		"movement": 2,
 		"strength": 9,
-		"cost": 75,
+		"cost": 56,
 		"uniques": ["Never appears as a Barbarian unit", "Can see over obstacles", "Only available <if [Sheep Training] is constructed>"]
 
 		"promotions": ["Ignore terrain cost"],
@@ -24,11 +24,37 @@
 "unitType": "Airborne Sheep",
 "movement": 3,
 "strength": 5,
-"rangedStrength": 12
+"rangedStrength": 12,
+"range": 1,
 "cost": 100,
 "uniques": ["No defensive terrain bonus", "Can move after attacking", "Only available <if [Sheep Training] is constructed>",
 	"All tiles cost 1 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit"],
 "requiredTech": "Optics",
-},		
+},
+{
+"name": "Swimming Sheep",
+"unitType": "Water Sheep",
+"movement": 3,
+"strength": 11,
+"cost": 56,
+"uniques": ["Never appears as a Barbarian unit", "Can build [Pasture] improvements on tiles"],
+"requiredTech": "Sailing",
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
 ]
 
