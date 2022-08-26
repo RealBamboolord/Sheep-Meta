@@ -23,7 +23,7 @@
 	"innerColor": [255, 255, 255],	
 //	"favoredReligion": "The Meta",	
 	"uniqueName": "Sheep Domination",	
-	"uniques": ["[+1 Food, +1 Production] from every [Sheep]", "[+20]% [Production] <while the empire is happy>"],	
+	"uniques": ["[+1 Food, +1 Production] from every [Sheep]", "[+15]% [Production] <while the empire is happy>"],	
 	"cities": ["Baarcelona", "Baamingham", "Mossheep", "Washearton", "Warwickshear"]	
 },
 
