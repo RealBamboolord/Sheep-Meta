@@ -55,6 +55,19 @@
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	},
+{
+		"name": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 10,
+		"cost": 75,
+		"requiredTech": "Bronze Working",
+		//"obsoleteTech": "Civil Service",
+		//"upgradesTo": "Pikeman",
+                "requiredResource": "Iron",
+		"uniques": ["[+60]% Strength <vs [Sheep] units>", "Limited to [3] per Civilization"],
+		"attackSound": "metalhit"
+	},
 
 
 
