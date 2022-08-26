@@ -56,7 +56,7 @@
 		"attackSound": "throw"
 	},
 {
-		"name": "Spearman",
+		"name": "Shearman",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 10,
