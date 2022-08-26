@@ -69,6 +69,61 @@
 		"attackSound": "metalhit"
 	},
 ///Reapers///
+   //Warrior//
+{
+		"name": "Meta Warrior",
+		"unitType": "Land Sheep",
+		"uniqueTo": "Sheep Meta",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 7,
+		"cost": 40,
+		"obsoleteTech": "Calendar",
+		"uniques": ["Will not be displayed in Civilopedia"],
+		"upgradesTo": "Haycutter",
+		"attackSound": "nonmetalhit"
+	},
+{
+		"name": "Dewales",
+		"unitType": "Land Sheep",
+		"uniqueTo": "Welsheep",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 7,
+		"cost": 40,
+		"obsoleteTech": "Calendar",
+		"uniques": ["Will not be displayed in Civilopedia"],
+		"upgradesTo": "Haycutter",
+		"attackSound": "nonmetalhit"
+	},
+{
+		"name": "Ripple",
+		"unitType": "Land Sheep",
+		"uniqueTo": "Absolute Sheeple",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 7,
+		"cost": 40,
+		"obsoleteTech": "Calendar",
+		"uniques": ["Will not be displayed in Civilopedia"],
+		"upgradesTo": "Haycutter",
+		"attackSound": "nonmetalhit"
+	},
+{
+		"name": "Latino Shoop",
+		"unitType": "Land Sheep",
+		"uniqueTo": "Latino Sheep",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 7,
+		"cost": 40,
+		"obsoleteTech": "Calendar",
+		"uniques": ["Will not be displayed in Civilopedia"],
+		"upgradesTo": "Haycutter",
+		"attackSound": "nonmetalhit"
+	},
+
+//////////////upgraded/////////////
 {
 "name": "Haycutter",
 "unitType": "Land Sheep",
