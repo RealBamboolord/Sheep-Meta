@@ -13,7 +13,7 @@
 {
 		"name": "Sheep Superiority Monument"
 		"replaces": "National Epic"
-		"uniqueTo": "Latino Sheep"
+		"uniqueTo": "Las Ovejas"
 		"isNationalWonder": true,
 		"culture": 1,
 		"cost": 100,
@@ -67,9 +67,9 @@
 		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]", "Will not be displayed in Civilopedia"]
 	},
 {
-		"name": "Palace LS",
+		"name": "Palace LO",
                 "replaces": "Palace"
-		"uniqueTo": "Latino Sheep"
+		"uniqueTo": "Las Oveja"
 		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
