@@ -199,8 +199,8 @@
 "unitType": "Ancient"
 "movement": 1,
 "strength": 8,
-"Cost": 200,
-"uniques": ["May upgrade to [Harvester] through ruins-like effects", "Never appears as a Barbarian unit", "unbuildable", "Sheep"],	
+"cost": 200,
+"uniques": ["May upgrade to [Harvester] through ruins-like effects", "Never appears as a Barbarian unit", "Unbuildable", "Sheep"],	
 "promotions": ["Wisdom of the ancients"],
 },
 {
@@ -208,8 +208,8 @@
 "unitType": "Ancient"
 "movement": 1,
 "strength": 5,
-"Cost": 200,
-"uniques": ["May upgrade to [Battering Ram] through ruins-like effects", "Never appears as a Barbarian unit", "unbuildable", "[+100]% XP gained from combat"],	
+"cost": 200,
+"uniques": ["May upgrade to [Battering Ram] through ruins-like effects", "Never appears as a Barbarian unit", "Unbuildable", "[+100]% XP gained from combat"],	
 "promotions": ["Fossil"],
 },
 
