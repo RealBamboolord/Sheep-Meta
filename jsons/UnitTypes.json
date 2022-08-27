@@ -20,6 +20,11 @@
  "uniques": ["Sheep", "Only available <if [Sheep Training] is constructed>",]
  },
 {
+ "name": "Ram Sheep",
+ "movementType": "Land",
+ "uniques": ["Sheep", "Only available <if [Sheep Training] is constructed>",]
+ },
+{
  "name": "Wolfantisheep",
  "movementType": "Land"
  },
