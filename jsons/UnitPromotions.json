@@ -80,6 +80,32 @@
 "uniques":["[1] additional attacks per turn","[Great General] is earned [100]% faster"],
 "unitTypes": ["Ram Sheep"],
 },
+////////////Ancients/////////////
+{
+"name": "Wisdom of the ancients",
+"uniques":["[+1] Sight", "[+50]% XP gained from combat", "[-5] HP when healing", "May withdraw before melee ([20]%)"],
+},
+{
+"name": "Fossil",
+"uniques":["[+25]% Strength <when defending> <in [Friendly Land] tiles>", "Earn [50]% of the damage done to [City] units as [Gold]"],
+},
+{
+"name": "Bring it back to life",
+"prerequisites": ["Fossil","Wisdom of the ancients"],
+"uniques": ["This Unit upgrades for free including special upgrades"],
+"unitTypes": ["Ancient"],
+},
+
+
+
+
+
+
+
+
+
+
+
 
 
 ]
