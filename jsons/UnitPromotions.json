@@ -2,7 +2,7 @@
 {
 		"name": "Heal The Sheep",
 		"uniques": ["Heal this unit by [90] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep", "Ram Sheep"],
 	},
 {
 		"name": "March",
@@ -37,10 +37,54 @@
 "uniques": ["Heals [20] damage if it kills a unit", "[+50]% Strength <vs [Wounded] units><when attacking>"]
 "unitTypes": ["Land Sheep"],
 },
-
-
-
-
+////////Ram////////
+{"name": "Widder",
+"prerequisites": ["Horns II"],
+"uniques": ["[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "[-5]% Strength for enemy [City] units in adjacent [All] tiles"]
+"unitTypes": ["Ram Sheep"],
+},
+{
+"name": "Charge",
+"prerequisites": ["Shock II","Drill II","Horns II"],
+"uniques": ["[+33]% Strength <vs [Wounded] units>"],
+"unitTypes": ["Mounted","Armored","Ram Sheep"]
+},
+{
+"name": "Horns I",
+"prerequisites": ["Horns I"],
+"uniques":["[+10]% Strength <when attacking>"],
+"unitTypes": ["Ram Sheep"],
+},
+{
+"name": "Horns II",
+"prerequisites": ["Horns I"],
+"uniques":["[+10]% Strength"],
+"unitTypes": ["Ram Sheep"],
+},
+{
+"name": "Horns III",
+"prerequisites": ["Horns II"],
+"uniques":["[+15]% Strength <when attacking>"],
+"unitTypes": ["Ram Sheep"],
+},
+{
+"name": "Horns I",
+"prerequisites": ["Horns I"],
+"uniques":["[+10]% Strength <when attacking>"],
+"unitTypes": ["Ram Sheep"],
+},
+{
+"name": "Restless Sprint",
+"prerequisites": ["Horns III"],
+"uniques":["[+1] Movement","Can move after attacking"],
+"unitTypes": ["Ram Sheep"],
+},
+{
+"name": "Greater Fury",
+"prerequisites": ["Horns III"],
+"uniques":["[1] additional attacks per turn","[Great General] is earned [100]% faster"],
+"unitTypes": ["Ram Sheep"],
+},
 
 
 ]
