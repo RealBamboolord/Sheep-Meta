@@ -23,7 +23,9 @@
 },
 {
 "name": "Haycutting",
+"prerequisites": ["Haycutting"],
 "uniques": ["[+10]% Strength <vs [Mounted] units>", "Access to Reaper promotions"],
+"unitTypes": ["Land Sheep"],
 },
 {
 "name": "Harvesting",
@@ -51,7 +53,6 @@
 },
 {
 "name": "Horns I",
-"prerequisites": ["Horns I"],
 "uniques":["[+10]% Strength <when attacking>"],
 "unitTypes": ["Ram Sheep"],
 },
