@@ -8,6 +8,7 @@
 		"requiredTech": "The Wheel",
 		"promotions": ["Ignore terrain cost"],
 	},
+///////////////////Recon Shoops///////////////
 {
 		"name": "Shoopserver",
 		"unitType": "Land Sheep",
@@ -15,9 +16,32 @@
 		"strength": 9,
 		"cost": 56,
 		"uniques": ["Never appears as a Barbarian unit", "Can see over obstacles", "Only available <if [Sheep Training] is constructed>"]
-
+                "obsoleteTech": "Compass",
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
+	},
+{
+		"name": "Reconshoop",
+		"unitType": "Land Sheep",
+		"movement": 2,
+		"strength": 15,
+		"cost": 118,
+		"uniques": ["Never appears as a Barbarian unit", "Can see over obstacles", "Only available <if [Sheep Training] is constructed>", "[+1] Sight"]
+                "requiredTech": "Compass",
+                "obsoleteTech": "Archaeology",
+		"promotions": ["Ignore terrain cost", "Amphibious", "Woodsman"],
+		"attackSound": "nonmetalhit"
+	},
+{
+		"name": "Shooper Trooper",
+		"unitType": "Land Sheep",
+		"movement": 2,
+		"strength": 30,
+		"cost": 250,
+		"uniques": ["Never appears as a Barbarian unit", "Can see over obstacles", "Only available <if [Sheep Training] is constructed>", "[+1] Sight", "Can see invisible [all] units"]
+                "requiredTech": "Archaeology",
+		"promotions": ["Ignore terrain cost", "Amphibious", "Woodsman"],
+		"attackSound": "shot"
 	},
 {
 "name": "Sheep cloud",
@@ -31,6 +55,7 @@
 	"All tiles cost 1 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit"],
 "requiredTech": "Optics",
 },
+//////////////////Water Sheep///////////////////
 {
 "name": "Swimming Sheep",
 "unitType": "Water Sheep",
@@ -40,6 +65,20 @@
 "uniques": ["Never appears as a Barbarian unit", "Can build [Pasture] improvements on tiles", "Only available <if [Sheep Training] is constructed>"],
 "requiredTech": "Sailing",
 },
+{
+		"name": "Compass Sheep",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 19,
+		"rangedStrength": 15,
+		"cost": 110,
+                "range": 1,
+		"requiredTech": "Compass",
+		//"obsoleteTech": "Navigation",
+		//"upgradesTo": "Frigate",
+		"uniques": ["Cannot enter ocean tiles","Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>", "Can enter ice tiles", "Can build [Pasture] improvements on [Ice] tiles", "[-50]% Strength <vs cities> <when attacking>", "Can move after attacking", "[+1] Sight"],
+		"attackSound": "metalhit"
+	},
 {
 		"name": "Baahlista",
 		"unitType": "Siege",
