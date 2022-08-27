@@ -124,9 +124,9 @@
 		"attackSound": "nonmetalhit"
 	},
 {
-		"name": "Latino Shoop",
+		"name": "Oveja Warrior",
 		"unitType": "Land Sheep",
-		"uniqueTo": "Latino Sheep",
+		"uniqueTo": "Las Ovejas",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 7,
