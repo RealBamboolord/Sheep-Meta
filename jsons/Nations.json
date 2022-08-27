@@ -27,32 +27,27 @@
 	"cities": ["Baarcelona", "Baamingham", "Mossheep", "Washearton", "Warwickshear"]	
 },
 
-{	
-	"name": "Las Ovejas",	
-	"leaderName": "Caballero-Arepa",	
-	"adjective": ["Overjeras"],	
-	"startBias": ["Hill"],	
-	"preferredVictorType": "Cultural", 	
-
-/*	"startIntroPart1": "Your men stand proudly to greet you, Great Attila, grand warrior and ruler of the Hunnic empire. Together with your brother Bleda you expanded the boundaries of your empire, becoming the most powerful and frightening force of the 5th century. You bowed the Eastern Roman Emperors to your will and took kingdom after kingdom along the Danube and Nisava Rivers. As the sovereign ruler of the Huns, you marched your army across Europe into Gaul, planning to extend your already impressive lands all the way to the Atlantic Ocean. Your untimely death led to the quick disintegration and downfall of your empire, but your name and deeds have created an everlasting legacy for your people.",	
-	"startIntroPart2": "Fearsome General, your people call for the recreation of a new Hunnic Empire, one which will make the exploits and histories of the former seem like the faded dreaming of a dying sun. Will you answer their call to regain your rightful prominence and glory? Will you mount your steadfast steed and lead your armies to victory? Will you build a civilization that stands the test of time?",			
-
-	"declaringWar": "I grow tired of this throne. I think I should like to have yours instead.",	
-	"defeated": "My people will mourn me not with tears, but with human blood.",	
-	"attacked": "Now what is this?! You ask me to add your riches to my great avails. The invitation is accepted.",	
-	"introduction": "You are in the presence of Attila, scourge of Rome. Do not let hubris be your downfall as well.",			
-*/
-	"neutralHello": "Bee (Hola)",	
-	"hateHello": "Beeee mee, bee! (Hasta la vista!)",			
-
-	"tradeRequest": "This is better than you deserve, but let it not be said that I am an unfair man.",			
-
-	"outerColor": [79, 66, 46],	
-	"innerColor": [255, 255, 255],	
-//	"favoredReligion": "The Meta",	
-	"uniqueName": "Sheep Domination",	
-	"uniques": ["[+1 Culture, +1 Happiness] from every [Sheep]", "[+20]% [Culture] <while the empire is happy>"],	
-	"cities": ["Shoop Town", "Arepa plains", "Caballero-Arepa-City"]	
+{         
+        "name": "Las Ovejas",         
+        "leaderName": "Caballero Arepa",         
+        "adjective": ["Overjeras"],         
+        "startBias": ["Hill"],         
+        "preferredVictorType": "Cultural",           
+        "declaringWar": "Los Ovinos will not allow your presence in our fields. Al ataquee!",         
+        "defeated": "Noo, por qué corruption plagues us like mites?",         
+        "attacked": "The gambesons are ready. La mejor calidad.",         
+        "introduction": "Buenos días. Yo am El Caballero, noble leader of this small confeederation. May not menace us, instead be part of our herd.",
+        "neutralHello": "Beee (Hola)",         
+        "hateHello": "Beeee mee, bee je! (¡Hasta la vista!)",                         
+  
+        "tradeRequest": "May we cooperate in the affairs that involves us in thicc whool.",                         
+  
+        "outerColor": [79, 66, 46],         
+        "innerColor": [255, 255, 255],         
+//        "favoredReligion": "The Meta",         
+        "uniqueName": "Whool MasterCrafts",         
+        "uniques": ["[+1 Culture, +1 Happiness] from every [Sheep]", "[+20]% [Culture] <while the empire is happy>"],         
+        "cities": ["El Establo", "Rancheria", "Fincas del Monte","Finca del Este","Montería","El Corral"]         
 },
 {
 		"name": "Absolute Sheeple",
