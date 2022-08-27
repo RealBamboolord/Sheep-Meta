@@ -1,0 +1,15 @@
+[
+{
+ "name": "Ancient Sheep",
+ "notification": "An [Ancient Sheep] has joined us!",
+ "uniques": ["Free [Ancient Sheep] found in the ruins"],
+"weight": 4,
+ },
+{
+ "name": "Ram Fossil",
+ "notification": "A [Ram Fossil] has joined us!",
+ "uniques": ["Free [Ram Fossil] found in the ruins"],
+ "excludedDifficulties": ["Deity"],
+"weight": 2,
+ },
+]

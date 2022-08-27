@@ -193,16 +193,25 @@
 		"promotions": ["Cover I"],
 		"attackSound": "throw"
 	},
-
-
-
-
-
-
-
-
-
-
+//////////////Ancients///////////////
+{
+"name": "Ancient Sheep",
+"unitType": "Ancient"
+"movement": 1,
+"strength": 8,
+"Cost": 200,
+"uniques": ["May upgrade to [Harvester] through ruins-like effects", "Never appears as a Barbarian unit", "unbuildable", "Sheep"],	
+"promotions": ["Wisdom of the ancients"],
+},
+{
+"name": "Ram Fossil",
+"unitType": "Ancient"
+"movement": 1,
+"strength": 5,
+"Cost": 200,
+"uniques": ["May upgrade to [Battering Ram] through ruins-like effects", "Never appears as a Barbarian unit", "unbuildable", [+100]% XP gained from combat"],	
+"promotions": ["Fossil"],
+},
 
 
 
