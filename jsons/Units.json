@@ -49,10 +49,24 @@
 		"cost": 75,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
-		"upgradesTo": "Trebuchet",
+		"upgradesTo": "Trebusheep",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "Never appears as a Barbarian unit",
 			"Must set up to ranged attack", "[-1] Sight", "Sheep", "Only available <if [Sheep Training] is constructed>"],
 		"hurryCostModifier": 20,
+		"attackSound": "throw"
+	},
+{
+		"name": "Trebusheep",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 10,
+		"rangedStrength": 16,
+		"cost": 130,
+		"requiredTech": "Physics",
+		"obsoleteTech": "Chemistry",
+		"upgradesTo": "Cannon",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+                            "Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit", "Sheep", "Only available <if [Sheep Training] is constructed>"],
 		"attackSound": "throw"
 	},
 {
@@ -130,11 +144,11 @@
 "movement": 2,
 "strength": 10,
 "cost": 56,
-"requiredTech": "Calendar",
-"obsoleteTech": "Drama and Poetry",
+"requiredTech": "Masonry",
+"obsoleteTech": "Metal Casting",
 "upgradesTo": "Harvester",
 "promotions": ["Haycutting"],
-"uniques": ["Never appears as a Barbarian unit"],
+"uniques": ["Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>"],
 "attackSound": "nonmetalhit",
 },
 {
@@ -143,16 +157,42 @@
 "movement": 2,
 "strength": 16,
 "cost": 75
-"requiredTech": "Drama and Poetry",
+"requiredTech": "Metal Casting",
 "promotions": ["Haycutting"],
-"uniques": ["Never appears as a Barbarian unit"],
+"uniques": ["Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>"],
 "attackSound": "metalhit",
 },
 //Reaper
 
-
-
-
+//////////////////////Ram/Widder units/////////////
+{
+		"name": "Battering Ram",
+		"unitType": "Ram Sheep",
+		"movement": 3,
+		"strength": 12,
+		"cost": 89,
+		"requiredTech": "Trapping",
+		"obsoleteTech": "Chivalry",
+		"upgradesTo": "Sheep Tower",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
+		"[-1] Sight", "Can only attack [City] units", "Sheep","Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>"],
+		"promotions": ["Cover I", "Widder"],
+		"attackSound": "throw"
+	},
+{
+		"name": "Sheep Tower",
+		"unitType": "Ram Sheep",
+		"movement": 1,
+		"strength": 24,
+		"cost": 155,
+		"requiredTech": "Chivalry",
+		//"obsoleteTech": "Chivalry",
+		//"upgradesTo": "Trebusheep",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-25]% Strength <when defending>",
+		"[-2] Sight", "Can only attack [City] units", "Sheep","Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>"],
+		"promotions": ["Cover I"],
+		"attackSound": "throw"
+	},
 
 
 
