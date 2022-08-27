@@ -69,12 +69,6 @@
 "unitTypes": ["Ram Sheep"],
 },
 {
-"name": "Horns I",
-"prerequisites": ["Horns I"],
-"uniques":["[+10]% Strength <when attacking>"],
-"unitTypes": ["Ram Sheep"],
-},
-{
 "name": "Restless Sprint",
 "prerequisites": ["Horns III"],
 "uniques":["[+1] Movement","Can move after attacking"],
