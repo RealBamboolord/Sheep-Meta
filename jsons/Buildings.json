@@ -69,7 +69,7 @@
 {
 		"name": "Palace LO",
                 "replaces": "Palace"
-		"uniqueTo": "Las Oveja"
+		"uniqueTo": "Las Ovejas"
 		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
