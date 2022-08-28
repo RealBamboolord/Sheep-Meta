@@ -8,12 +8,12 @@
 
 /*	"startIntroPart1": "...",	
 	"startIntroPart2": "...",			
-
-	"declaringWar": "I grow tired of this throne. I think I should like to have yours instead.",	
-	"defeated": "My people will mourn me not with tears, but with human blood.",	
-	"attacked": "Now what is this?! You ask me to add your riches to my great avails. The invitation is accepted.",	
-	"introduction": "You are in the presence of Attila, scourge of Rome. Do not let hubris be your downfall as well.",			
 */
+	"declaringWar": "Baask in my glory - for it is one you will have to get used to.",	
+	"defeated": "Baah, you baarely did anything... shear luck must have been on your side..",	
+	"attacked": "What's that? Wolves dare come near me? How baamusing.",	
+	//"introduction": "You are in the presence of Attila, scourge of Rome. Do not let hubris be your downfall as well.",			
+
 	"neutralHello": "Baa, Baa (You must be blessed to even talk to Sheep)",	
 	"hateHello": "Baaaa! (Die!)",			
 
@@ -24,7 +24,7 @@
 	"favoredReligion": "The Meta",	
 	"uniqueName": "Sheep Domination",	
 	"uniques": ["[+1 Food, +1 Production] from every [Sheep]", "[+15]% [Production] <while the empire is happy>"],	
-	"cities": ["Baarcelona", "Baamingham", "Mossheep", "Washearton", "Warwickshear"]	
+	"cities": ["Baarcelona", "Baamingham", "Mossheep", "Washearton", "Warwickshear", "Colorasheep", "Ramburgh"]	
 },
 
 {         
