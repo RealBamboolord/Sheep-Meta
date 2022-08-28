@@ -6,8 +6,8 @@
 	"startBias": ["Hill"],	
 	"preferredVictorType": "Domination", 	
 
-/*	"startIntroPart1": "Your men stand proudly to greet you, Great Attila, grand warrior and ruler of the Hunnic empire. Together with your brother Bleda you expanded the boundaries of your empire, becoming the most powerful and frightening force of the 5th century. You bowed the Eastern Roman Emperors to your will and took kingdom after kingdom along the Danube and Nisava Rivers. As the sovereign ruler of the Huns, you marched your army across Europe into Gaul, planning to extend your already impressive lands all the way to the Atlantic Ocean. Your untimely death led to the quick disintegration and downfall of your empire, but your name and deeds have created an everlasting legacy for your people.",	
-	"startIntroPart2": "Fearsome General, your people call for the recreation of a new Hunnic Empire, one which will make the exploits and histories of the former seem like the faded dreaming of a dying sun. Will you answer their call to regain your rightful prominence and glory? Will you mount your steadfast steed and lead your armies to victory? Will you build a civilization that stands the test of time?",			
+/*	"startIntroPart1": "...",	
+	"startIntroPart2": "...",			
 
 	"declaringWar": "I grow tired of this throne. I think I should like to have yours instead.",	
 	"defeated": "My people will mourn me not with tears, but with human blood.",	
@@ -21,7 +21,7 @@
 
 	"outerColor": [79, 66, 46],	
 	"innerColor": [255, 255, 255],	
-//	"favoredReligion": "The Meta",	
+	"favoredReligion": "The Meta",	
 	"uniqueName": "Sheep Domination",	
 	"uniques": ["[+1 Food, +1 Production] from every [Sheep]", "[+15]% [Production] <while the empire is happy>"],	
 	"cities": ["Baarcelona", "Baamingham", "Mossheep", "Washearton", "Warwickshear"]	
@@ -32,19 +32,23 @@
         "leaderName": "Caballero Arepa",         
         "adjective": ["Overjeras"],         
         "startBias": ["Hill"],         
-        "preferredVictorType": "Cultural",           
+        "preferredVictorType": "Cultural", 
+
+//	"startIntroPart1": "...",
+//	"startIntroPart2": "...",
+
         "declaringWar": "Los Ovinos will not allow your presence in our fields. Al ataquee!",         
         "defeated": "Noo, por qué corruption plagues us like mites?",         
         "attacked": "The gambesons are ready. La mejor calidad.",         
         "introduction": "Buenos días. Yo am El Caballero, noble leader of this small confeederation. May not menace us, instead be part of our herd.",
         "neutralHello": "Beee (Hola)",         
-        "hateHello": "Beeee mee, bee je! (¡Hasta la vista!)",                         
+        "hateHello": "Beeee je mee! (Hasta la vista!)",                         
   
-        "tradeRequest": "May we cooperate in the affairs that involves us in thicc whool.",                         
+        "tradeRequest": "May we cooperate in the affairs that involves us in such thicc whool.",                         
   
-        "outerColor": [79, 66, 46],         
-        "innerColor": [255, 255, 255],         
-//        "favoredReligion": "The Meta",         
+        "outerColor": [30, 22, 20],         
+        "innerColor": [229, 201, 167],         
+	"favoredReligion": "The Meta",         
         "uniqueName": "Whool MasterCrafts",         
         "uniques": ["[+1 Culture, +1 Happiness] from every [Sheep]", "[+20]% [Culture] <while the empire is happy>"],         
         "cities": ["El Establo", "Rancheria", "Fincas del Monte","Finca del Este","Montería","El Corral"]         
@@ -55,8 +59,9 @@
 		"adjective": ["sheeply"],
 		"startBias": ["Coast"],
 		"preferredVictorType": "Diplomatic",
- 	 /*	"startIntroPart1": "Your men stand proudly to greet you, Great Attila, grand warrior and ruler of the Hunnic empire. Together with your brother Bleda you expanded the boundaries of your empire, becoming the most powerful and frightening force of the 5th century. You bowed the Eastern Roman Emperors to your will and took kingdom after kingdom along the Danube and Nisava Rivers. As the sovereign ruler of the Huns, you marched your army across Europe into Gaul, planning to extend your already impressive lands all the way to the Atlantic Ocean. Your untimely death led to the quick disintegration and downfall of your empire, but your name and deeds have created an everlasting legacy for your people.",
-		"startIntroPart2": "Fearsome General, your people call for the recreation of a new Hunnic Empire, one which will make the exploits and histories of the former seem like the faded dreaming of a dying sun. Will you answer their call to regain your rightful prominence and glory? Will you mount your steadfast steed and lead your armies to victory? Will you build a civilization that stands the test of time?",
+ 	 /*	
+	"startIntroPart1": "...",
+	"startIntroPart2": "...",
 	*/	"declaringWar": "Do not resist. Or do, it might be more fun that way.",
 		"defeated": "Nooo!! If I'm gone, who will tell the Sheeple what to think and how to feel?",
 		"attacked": "Ohoho, now things are getting interesting. A shame I didn't strike first.",
@@ -66,7 +71,7 @@
 		"tradeRequest": "My Sheeple have riches to spare. Care to make a deal?",
 	 	"outerColor": [90, 0, 127],
 		"innerColor": [255, 0, 255],
-	//	"favoredReligion": "The Meta",
+		"favoredReligion": "The Meta",
 		"uniqueName": "Absolut Meta",
 		"uniques": ["[+1 Faith, +2 Gold] from every [Sheep]", "Resting point for Influence with City-States is increased by [20] <while the empire is happy>"],
 		"cities": ["Absolutown", "Indoctrinato", "Dune's Estate", "Pastorland", "Roseburg", "Violetville", "Airstrip One", "Outer Wilderness", "West Linn", "Uregonia", "Magentown", "Black Wool"]
@@ -78,8 +83,8 @@
 	"startBias": ["Hill"],	
 	"preferredVictorType": "Scientific", 	
 
-/*	"startIntroPart1": "Your men stand proudly to greet you, Great Attila, grand warrior and ruler of the Hunnic empire. Together with your brother Bleda you expanded the boundaries of your empire, becoming the most powerful and frightening force of the 5th century. You bowed the Eastern Roman Emperors to your will and took kingdom after kingdom along the Danube and Nisava Rivers. As the sovereign ruler of the Huns, you marched your army across Europe into Gaul, planning to extend your already impressive lands all the way to the Atlantic Ocean. Your untimely death led to the quick disintegration and downfall of your empire, but your name and deeds have created an everlasting legacy for your people.",	
-	"startIntroPart2": "Fearsome General, your people call for the recreation of a new Hunnic Empire, one which will make the exploits and histories of the former seem like the faded dreaming of a dying sun. Will you answer their call to regain your rightful prominence and glory? Will you mount your steadfast steed and lead your armies to victory? Will you build a civilization that stands the test of time?",			
+/*	"startIntroPart1": "...",
+	"startIntroPart2": "...",			
 
 	"declaringWar": "I grow tired of this throne. I think I should like to have yours instead.",	
 	"defeated": "My people will mourn me not with tears, but with human blood.",	
@@ -93,7 +98,7 @@
 
 	"outerColor": [255, 255, 255],	
 	"innerColor": [0, 255, 0],	
-//	"favoredReligion": "The Meta",	
+	"favoredReligion": "The Meta",	
 	"uniqueName": "Shoop of Wales",	
 	"uniques": ["[+1 Science, +1 Gold] from every [Sheep]", "[+10]% [Science] <while the empire is happy>"],
         "cities": ["Calvesdiff", "Swepsea", "Newpost", "Bangor"],
