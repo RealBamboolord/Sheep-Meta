@@ -11,7 +11,7 @@
 		"uniques": ["[+25]% Production when constructing [Land] units [in this city]", "New [Military] units start with [5] Experience [in this city]"]	
 },
 {
-		"name": "Sheep Superiority Monument"
+		"name": "MasterCrafts Grand Hall"
 		"replaces": "National Epic"
 		"uniqueTo": "Las Ovejas"
 		"isNationalWonder": true,
