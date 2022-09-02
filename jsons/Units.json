@@ -358,6 +358,24 @@
 		"promotions": ["Cover I", "Widder"],
 		"attackSound": "cannon"
 	},
+
+
+/////////////////Patrol Air///////////////
+{
+		"name": "Patrol Sheep",
+		"unitType": "Air Sheep",
+		"movement": 1,
+		"strength": 20,
+		"rangedStrength": 20,
+		"range": 6,
+		"interceptRange": 1,
+		"cost": 275,
+		"requiredTech": "Rifling",
+		//"upgradesTo": "Fighter",
+		//"obsoleteTech": "Radar",
+		"uniques": ["[30]% chance to intercept air attacks", "[+4] Sight", "Cannot attack"],
+		"attackSound": "machinegun"
+	},
 //////////////Ancients///////////////
 {
 "name": "Ancient Sheep",
