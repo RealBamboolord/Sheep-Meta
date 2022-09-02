@@ -6,19 +6,42 @@
 	},
 {
 		"name": "March",
-		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Herd II","Reaping"],
+		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Herd III","Reaping","Trample III"],
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Mounted", "Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
 	},
 {
 "name": "Herd I",
-"uniques": ["[+20]% Strength"],
+"uniques": ["[+15]% Strength <when defending>"],
 "unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
 },
 {
 "name": "Herd II",
 "prerequisites": ["Herd I"],
-"uniques": ["[+25]% Strength"],
+"uniques": ["[+20]% Strength <vs [Ranged] units> <when defending>", "[+1] Sight"],
+"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+},
+{
+"name": "Herd III",
+"prerequisites": ["Herd II"],
+"uniques": ["[+15]% Strength"],
+"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+},
+{
+"name": "Trample I",
+"uniques": ["[+15]% Strength <when attacking>"],
+"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+},
+{
+"name": "Trample II",
+"prerequisites": ["Trample I"],
+"uniques": ["[+20]% Strength <vs [Ranged] units> <when attacking>", "No movement cost to pillage"],
+"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+},
+{
+"name": "Trample III",
+"prerequisites": ["Trample II"],
+"uniques": ["[+15]% Strength <when attacking>", "Double movement in [Forest]", "[+33]% to Flank Attack bonuses"],
 "unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
 },
 {
@@ -41,7 +64,7 @@
 },
 ////////Ram////////
 {"name": "Widder",
-"prerequisites": ["Horns II"],
+"prerequisites": ["Widder"],
 "uniques": ["[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "[-5]% Strength for enemy [City] units in adjacent [All] tiles"]
 "unitTypes": ["Ram Sheep"],
 },
@@ -95,8 +118,6 @@
 "uniques": ["This Unit upgrades for free including special upgrades"],
 "unitTypes": ["Ancient"],
 },
-
-
 
 
 
