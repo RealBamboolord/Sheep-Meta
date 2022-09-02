@@ -1,13 +1,13 @@
 [
 {
 		"name": "Heal The Sheep I",
-		"uniques": ["Heal this unit by [50] HP", uniques": ["[+5] HP when healing <in [Foreign Land] tiles>"],
+		"uniques": ["Heal this unit by [50] HP", "[+5] HP when healing <in [Foreign Land] tiles>"],
 		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
 	},
 {
 		"name": "Heal The Sheep II",
                 "prerequisites": ["Heal The Sheep I"],
-		"uniques": ["Heal this unit by [70] HP", uniques": ["[+5] HP when healing <in [Foreign Land] tiles>"],
+		"uniques": ["Heal this unit by [70] HP", "[+5] HP when healing <in [Foreign Land] tiles>"],
 		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
 	},
 {
