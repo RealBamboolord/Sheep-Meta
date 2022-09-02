@@ -2,7 +2,8 @@
 {	
 	"name": "Sheep Meta",	
 	"leaderName": "Skekdog",	
-	"adjective": ["sheepy"],	
+	"adjective": ["sheepy"],
+		"style": "sheep",	
 	"startBias": ["Hill"],	
 	"preferredVictorType": "Domination", 	
 
@@ -30,7 +31,8 @@
 {         
         "name": "Las Ovejas",         
         "leaderName": "Caballero Arepa",         
-        "adjective": ["Overjeras"],         
+        "adjective": ["Overjeras"],
+		"style": "sheep",
         "startBias": ["Hill"],         
         "preferredVictorType": "Cultural", 
 
@@ -57,6 +59,7 @@
 		"name": "Absolute Sheeple",
 		"leaderName": "Letstalkaboutdune",
 		"adjective": ["sheeply"],
+		"style": "sheep",
 		"startBias": ["Coast"],
 		"preferredVictorType": "Diplomatic",
  	 /*	
@@ -79,7 +82,8 @@
 {	
 	"name": "Welsheep",	
 	"leaderName": "Huymn",	
-	"adjective": ["welshy"],	
+	"adjective": ["welshy"],
+		"style": "sheep",
 	"startBias": ["Hill"],	
 	"preferredVictorType": "Scientific", 	
 
