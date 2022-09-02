@@ -69,8 +69,22 @@
 "uniques": ["No defensive terrain bonus", "Can move after attacking", "Only available <if [Sheep Training] is constructed>",
 	"All tiles cost 1 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit"],
 "requiredTech": "Acoustics",
+"obsoleteTech": "Steam Power",
+"upgradesTo": "Steam Powered Sheep",
 },
-
+{
+"name": "Steam Powered Sheep",
+"unitType": "Airborne Sheep",
+"movement": 5,
+"strength": 20,
+"rangedStrength": 40,
+"range": 1,
+"cost": 320,
+"uniques": ["No defensive terrain bonus", "Can move after attacking", "Only available <if [Sheep Training] is constructed>",
+	"All tiles cost 1 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit"],
+"requiredTech": "Steam Power",
+"requiredResource": "Coal",
+},
 
 //////////////////Water Sheep///////////////////
 {
@@ -295,12 +309,27 @@
 		"strength": 30,
 		"cost": 250,
 		"requiredTech": "Economics",
+		"obsoleteTech": "Steam Power",
+		"upgradesTo": "Steam Powered Ram",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
+		"[-1] Sight", "Can only attack [City] units", "Sheep","Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>"],
+		"promotions": ["Cover I", "Widder"],
+		"attackSound": "throw"
+	},
+{
+		"name": "Steam Powered Ram",
+		"unitType": "Ram Sheep",
+		"movement": 4,
+		"strength": 40,
+		"cost": 320,
+		"requiredTech": "Steam Power",
+                "requiredResource": "Coal",
 		//"obsoleteTech": "Chivalry",
 		//"upgradesTo": "Trebusheep",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
 		"[-1] Sight", "Can only attack [City] units", "Sheep","Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>"],
 		"promotions": ["Cover I", "Widder"],
-		"attackSound": "throw"
+		"attackSound": "cannon"
 	},
 //////////////Ancients///////////////
 {
