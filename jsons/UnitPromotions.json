@@ -1,12 +1,24 @@
 [
 {
-		"name": "Heal The Sheep",
+		"name": "Heal The Sheep I",
+		"uniques": ["Heal this unit by [50] HP", uniques": ["[+5] HP when healing <in [Foreign Land] tiles>"],
+		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+	},
+{
+		"name": "Heal The Sheep II",
+                "prerequisites": ["Heal The Sheep I"],
+		"uniques": ["Heal this unit by [70] HP", uniques": ["[+5] HP when healing <in [Foreign Land] tiles>"],
+		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+	},
+{
+		"name": "Heal The Sheep III",
+                "prerequisites": ["Heal The Sheep II", "Widder"],
 		"uniques": ["Heal this unit by [90] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep", "Ram Sheep"],
 	},
 {
 		"name": "March",
-		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Herd III","Reaping","Trample III"],
+		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Herd III","Reaping","Trample III","Heal The Sheep II"],
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Mounted", "Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
 	},
