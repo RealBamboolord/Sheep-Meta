@@ -43,6 +43,7 @@
 		"promotions": ["Ignore terrain cost", "Amphibious", "Woodsman"],
 		"attackSound": "shot"
 	},
+/////////////////Clouds/Heli likes//////////////////
 {
 "name": "Sheep cloud",
 "unitType": "Airborne Sheep",
@@ -54,7 +55,23 @@
 "uniques": ["No defensive terrain bonus", "Can move after attacking", "Only available <if [Sheep Training] is constructed>",
 	"All tiles cost 1 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit"],
 "requiredTech": "Optics",
+"obsoleteTech": "Acoustics",
+"upgradesTo": "Floating Sheep",
 },
+{
+"name": "Floating Sheep",
+"unitType": "Airborne Sheep",
+"movement": 4,
+"strength": 10,
+"rangedStrength": 20,
+"range": 1,
+"cost": 200,
+"uniques": ["No defensive terrain bonus", "Can move after attacking", "Only available <if [Sheep Training] is constructed>",
+	"All tiles cost 1 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit"],
+"requiredTech": "Acoustics",
+},
+
+
 //////////////////Water Sheep///////////////////
 {
 "name": "Swimming Sheep",
@@ -108,6 +125,7 @@
                             "Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit", "Sheep", "Only available <if [Sheep Training] is constructed>"],
 		"attackSound": "throw"
 	},
+//////////////////////////Shears//////////////////
 {
 		"name": "Shearman",
 		"unitType": "Sword",
@@ -116,9 +134,22 @@
 		"cost": 75,
 		"requiredTech": "Bronze Working",
 		//"obsoleteTech": "Civil Service",
-		//"upgradesTo": "Pikeman",
+		"upgradesTo": "Sharper Shears",
                 "requiredResource": "Iron",
 		"uniques": ["[+60]% Strength <vs [Sheep] units>", "Limited to [3] per Civilization", "Never appears as a Barbarian unit"],
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Sharper Shears",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 19,
+		"cost": 150,
+		"requiredTech": "Steel",
+		//"obsoleteTech": "Civil Service",
+		//"upgradesTo": "Pikeman",
+                "requiredResource": "Iron",
+		"uniques": ["[+50]% Strength <vs [Sheep] units>", "Limited to [3] per Civilization", "Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"
 	},
 ///Reapers///
@@ -195,14 +226,26 @@
 "unitType": "Land Sheep",
 "movement": 2,
 "strength": 16,
-"cost": 75
+"cost": 100,
 "requiredTech": "Metal Casting",
+"obsoleteTech": "Gunpowder",
+"upgradesTo": "Reaper",
 "promotions": ["Haycutting"],
 "uniques": ["Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>"],
 "attackSound": "metalhit",
 },
 //Reaper
-
+{
+"name": "Reaper",
+"unitType": "Land Sheep",
+"movement": 3,
+"strength": 25,
+"cost": 185,
+"requiredTech": "Gunpowder",
+"promotions": ["Haycutting"],
+"uniques": ["Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>"],
+"attackSound": "metalhit",
+},
 //////////////////////Ram/Widder units/////////////
 {
 		"name": "Battering Ram",
