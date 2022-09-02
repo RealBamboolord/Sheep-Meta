@@ -373,7 +373,7 @@
 		"requiredTech": "Rifling",
 		//"upgradesTo": "Fighter",
 		//"obsoleteTech": "Radar",
-		"uniques": ["[30]% chance to intercept air attacks", "[+4] Sight", "Cannot attack"],
+		"uniques": ["[30]% chance to intercept air attacks", "[+4] Sight", "Cannot attack", "Only available <if [Sheep Training] is constructed>"],
 		"attackSound": "machinegun"
 	},
 //////////////Ancients///////////////
