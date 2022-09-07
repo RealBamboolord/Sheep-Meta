@@ -242,16 +242,23 @@ UnitPromotionIcons/Herd
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Reaping
+UnitPromotionIcons/Horns
   rotate: false
   xy: 120, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Wisdom of the ancients
+UnitPromotionIcons/Reaping
   rotate: false
   xy: 1476, 420
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Wisdom of the ancients
+  rotate: false
+  xy: 178, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
