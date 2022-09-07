@@ -214,23 +214,44 @@ UnitPromotionIcons/Greater Fury
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Heal The Sheep
+UnitPromotionIcons/Harvesting
   rotate: false
   xy: 1252, 312
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Herd
+UnitPromotionIcons/Haycutting
   rotate: false
   xy: 1360, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Wisdom of the ancients
+UnitPromotionIcons/Heal The Sheep
   rotate: false
   xy: 62, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Herd
+  rotate: false
+  xy: 1418, 420
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Reaping
+  rotate: false
+  xy: 120, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Wisdom of the ancients
+  rotate: false
+  xy: 1476, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
