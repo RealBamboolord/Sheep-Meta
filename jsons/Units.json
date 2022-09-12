@@ -105,7 +105,7 @@
 		"strength": 30,
 		"cost": 135,
 		"requiredTech": "Astronomy",
-		//"upgradesTo": "Ironclad",
+		"upgradesTo": "Oil Powered Shieeep",
 		"obsoleteTech": "Combustion",
 		"uniques": ["[+1] Sight", "Can move after attacking", "[+15]% Strength <vs [Land] units>"
                             "Cannot enter ocean tiles", "Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>"],
@@ -114,6 +114,23 @@
 		"attackSound": "cannon"
                 "civilopediaText": [
 			{"text": "A sheep can swim better than this, so this is slower and cant pass through ocean tiles. Nevertheless, it excells in Coastal assaults."}
+		]
+	},
+{
+		"name": "Oil Powered Shieeep",
+		"unitType": "Melee Water",
+		"movement": 2,
+		"strength": 45,
+		"cost": 275,
+		"requiredTech": "Biology",
+		"requiredResource": "Oil",
+		//"upgradesTo": "Destroyer",
+		//"obsoleteTech": "Combustion",
+		"uniques": ["[+33]% Strength <vs [Ranged Water] units><when attacking>","[+10]% Strength <vs [Melee Water] units>""Double movement in [Coast]", "Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>"],
+		"promotions": ["Landing Party"],
+		"attackSound": "shipguns"
+ 		"civilopediaText": [
+			{"text": "Sheep Technology can be revolutionary"}
 		]
 	},
 {
