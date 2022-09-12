@@ -118,7 +118,7 @@
 	},
 {
 		"name": "Compass Sheep",
-		"unitType": "Ranged Water",
+		"unitType": "Water Sheep",
 		"movement": 5,
 		"strength": 19,
 		"rangedStrength": 15,
