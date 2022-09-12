@@ -20,7 +20,7 @@ BuildingIcons/Sheep School
   index: -1
 NationIcons/Las Ovejas
   rotate: false
-  xy: 1252, 370
+  xy: 1252, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -76,14 +76,14 @@ UnitIcons/Shooper Trooper
   index: -1
 UnitIcons/Broke Ram
   rotate: false
-  xy: 1044, 162
+  xy: 1252, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Steam Powered Ram
   rotate: false
-  xy: 1044, 162
+  xy: 1252, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -186,9 +186,16 @@ UnitIcons/Shepherd
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Shoopserver
+UnitIcons/Shieeep
   rotate: false
   xy: 1044, 270
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Shoopserver
+  rotate: false
+  xy: 1044, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -202,42 +209,42 @@ UnitPromotionIcons/Bring it back to life
   index: -1
 UnitPromotionIcons/Fossil
   rotate: false
-  xy: 1044, 104
+  xy: 1360, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Greater Fury
   rotate: false
-  xy: 1152, 212
+  xy: 1252, 204
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Harvesting
   rotate: false
-  xy: 1252, 312
+  xy: 62, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Haycutting
   rotate: false
-  xy: 1360, 420
+  xy: 1360, 362
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Heal The Sheep
   rotate: false
-  xy: 62, 4
+  xy: 1418, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Herd
   rotate: false
-  xy: 1418, 420
+  xy: 1252, 146
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -251,14 +258,14 @@ UnitPromotionIcons/Horns
   index: -1
 UnitPromotionIcons/Reaping
   rotate: false
-  xy: 1476, 420
+  xy: 1360, 304
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Wisdom of the ancients
   rotate: false
-  xy: 178, 4
+  xy: 1418, 362
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
