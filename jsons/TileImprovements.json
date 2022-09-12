@@ -1,0 +1,9 @@
+[
+{
+  		"name": "Pasture",
+		"turnsToBuild": 8,
+		"techRequired": "Animal Husbandry",
+		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]","Does not need removal of [Ice]","Does not need removal of [Marsh]","[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "P"
+  	},
+  ]
