@@ -102,7 +102,7 @@
 		"name": "Shieeep",
 		"unitType": "Water Sheep",
 		"movement": 2,
-		"strength": 24,
+		"strength": 30,
 		"cost": 135,
 		"requiredTech": "Astronomy",
 		//"upgradesTo": "Ironclad",
@@ -126,9 +126,24 @@
                 "range": 1,
 		"requiredTech": "Compass",
 		//"obsoleteTech": "Navigation",
-		//"upgradesTo": "Frigate",
+		"upgradesTo": "Trident Thrower Sheep",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>","Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>", "Can enter ice tiles", "Can build [Pasture] improvements on tiles", "[-50]% Strength <vs cities> <when attacking>", "Can move after attacking", "[+1] Sight"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Trident Thrower Sheep",
+		"unitType": "Ranged Water",
+		"movement": 4,
+		"strength": 28,
+		"rangedStrength": 30,
+		"cost": 200,
+		"requiredResource": "Iron",
+		"requiredTech": "Navigation",
+		//"obsoleteTech": "Electronics",
+		//"upgradesTo": "Battleship",
+		"uniques": ["Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>", "Can enter ice tiles", "[-25]% Strength <vs cities> <when attacking>", "Can move after attacking"],
+		"hurryCostModifier": 20,
+		"attackSound": "cannon"
 	},
 ////////////////////////////Siegrs////////////////
 {
