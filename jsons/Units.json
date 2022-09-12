@@ -127,7 +127,7 @@
 		"requiredTech": "Compass",
 		//"obsoleteTech": "Navigation",
 		//"upgradesTo": "Frigate",
-		"uniques": ["Cannot enter ocean tiles","Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>", "Can enter ice tiles", "Can build [Pasture] improvements on [Ice] tiles", "[-50]% Strength <vs cities> <when attacking>", "Can move after attacking", "[+1] Sight"],
+		"uniques": ["Cannot enter ocean tiles","Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>", "Can enter ice tiles", "Can build [Pasture] improvements on tiles", "[-50]% Strength <vs cities> <when attacking>", "Can move after attacking", "[+1] Sight"],
 		"attackSound": "metalhit"
 	},
 ////////////////////////////Siegrs////////////////
