@@ -20,7 +20,7 @@ BuildingIcons/Sheep School
   index: -1
 NationIcons/Las Ovejas
   rotate: false
-  xy: 1460, 262
+  xy: 1568, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -74,16 +74,37 @@ UnitIcons/Shooper Trooper
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Broke Ram
+UnitIcons/Baahlista
   rotate: false
   xy: 1460, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Baannon
+  rotate: false
+  xy: 1460, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Baartillery
+  rotate: false
+  xy: 1568, 370
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Broke Ram
+  rotate: false
+  xy: 1460, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Steam Powered Ram
   rotate: false
-  xy: 1460, 370
+  xy: 1460, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -207,6 +228,13 @@ UnitIcons/Shoopserver
   orig: 200, 200
   offset: 0, 0
   index: -1
+UnitIcons/Trebusheep
+  rotate: false
+  xy: 1676, 370
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Trident Thrower Sheep
   rotate: false
   xy: 1252, 62
@@ -223,42 +251,42 @@ UnitPromotionIcons/Bring it back to life
   index: -1
 UnitPromotionIcons/Fossil
   rotate: false
-  xy: 1568, 420
+  xy: 1460, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Greater Fury
   rotate: false
-  xy: 1460, 204
+  xy: 1568, 204
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Harvesting
   rotate: false
-  xy: 62, 4
+  xy: 1676, 312
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Haycutting
   rotate: false
-  xy: 1568, 362
+  xy: 1784, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Heal The Sheep
   rotate: false
-  xy: 1626, 420
+  xy: 62, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Herd
   rotate: false
-  xy: 1460, 146
+  xy: 1842, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -272,14 +300,14 @@ UnitPromotionIcons/Horns
   index: -1
 UnitPromotionIcons/Reaping
   rotate: false
-  xy: 1568, 304
+  xy: 1900, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Wisdom of the ancients
   rotate: false
-  xy: 1626, 362
+  xy: 178, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
