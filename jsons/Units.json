@@ -126,7 +126,7 @@
 		"requiredResource": "Oil",
 		//"upgradesTo": "Destroyer",
 		//"obsoleteTech": "Combustion",
-		"uniques": ["[+33]% Strength <vs [Ranged Water] units><when attacking>","[+10]% Strength <vs [Melee Water] units>""Double movement in [Coast]", "Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>"],
+		"uniques": ["[+33]% Strength <vs [Ranged Water] units><when attacking>","[+10]% Strength <vs [Melee Water] units>","Double movement in [Coast]", "Never appears as a Barbarian unit", "Only available <if [Sheep Training] is constructed>"],
 		"promotions": ["Landing Party"],
 		"attackSound": "shipguns"
  		"civilopediaText": [
