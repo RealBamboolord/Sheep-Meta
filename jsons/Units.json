@@ -19,6 +19,7 @@
                 "obsoleteTech": "Compass",
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
+		"upgradesTo": "Reconshoop",
 	},
 {
 		"name": "Reconshoop",
@@ -31,6 +32,7 @@
                 "obsoleteTech": "Archaeology",
 		"promotions": ["Ignore terrain cost", "Amphibious", "Woodsman"],
 		"attackSound": "nonmetalhit"
+		"upgradesTo": "Shooper Trooper",
 	},
 {
 		"name": "Shooper Trooper",
