@@ -222,7 +222,7 @@
 		"attackSound": "cannon"
 	},
 //////////////////////////Shears//////////////////
-{
+	{
 		"name": "Shearman",
 		"unitType": "Sword",
 		"movement": 2,
@@ -235,17 +235,30 @@
 		"uniques": ["[+60]% Strength <vs [Sheep] units>", "Limited to [3] per Civilization", "Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"
 	},
-{
+	{
 		"name": "Sharper Shears",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 19,
 		"cost": 150,
 		"requiredTech": "Steel",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Automated Shears",
+                "requiredResource": "Iron",
+		"uniques": ["[+50]% Strength <vs [Sheep] units>", "Limited to [3] per Civilization", "Never appears as a Barbarian unit"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Automated Shears",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 26,
+		"cost": 225,
+		"requiredTech": "Military Science",
 		//"obsoleteTech": "Civil Service",
 		//"upgradesTo": "Pikeman",
                 "requiredResource": "Iron",
-		"uniques": ["[+50]% Strength <vs [Sheep] units>", "Limited to [3] per Civilization", "Never appears as a Barbarian unit"],
+		"uniques": ["[+70]% Strength <vs [Sheep] units>", "Limited to [6] per Civilization", "Never appears as a Barbarian unit","Can build [Pasture] improvements on tiles"],
 		"attackSound": "metalhit"
 	},
 ///Reapers///
