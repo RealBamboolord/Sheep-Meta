@@ -51,7 +51,7 @@
 		"cost": 100,
 		"uniques": ["May choose [1] additional [Enhancer] beliefs when [enhancing] a religion",
 ],
-		"requiredTech": "Writting"
+		"requiredTech": "Writing"
         },
 ////////////////Sheep Unit buildings//////////////////
 {
