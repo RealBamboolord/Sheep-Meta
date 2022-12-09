@@ -107,4 +107,32 @@
 	"uniques": ["[+1 Science, +1 Gold] from every [Sheep]", "[+10]% [Science] <while the empire is happy>"],
         "cities": ["Calvesdiff", "Swepsea", "Newpost", "Bangor"],
 },
+{         
+        "name": "Las Cabras",         
+        "leaderName": "Capricornius",         
+        "adjective": ["goats"],
+        "style": "Goat",
+        "startBias": ["Hill"],         
+        "preferredVictorType": "Cultural", 
+
+//	"startIntroPart1": "...",
+//	"startIntroPart2": "...",
+        "declaringWar": "I came, I saw, I conquered.",         
+        "defeated": "Our greatest glory is not in never falling, but in rising every time we fall.",         
+        "attacked": "Have you ever heard the phrase 'Never interrupt your enemy when he is making a mistake', I though so.",         
+        "introduction": "It seems you have finally found us, we are the goats, the shepherds, And I hope you remember that. ",
+        "neutralHello": "Hello.",         
+        "hateHello": "Hello.",                         
+        "tradeRequest": "What do you think?",                         
+  
+        "outerColor": [215,225,225],         
+        "innerColor": [0, 0, 0],         
+        "favoredReligion": "The Meta",         
+        "uniqueName": "The Shepherds",
+        "uniqueText": "Gain a free Pantheon belief after completing a Policy Tree",         
+        "uniques": ["[+1 Faith,] from every [Sheep]", 
+        "Units ignore terrain costs when moving into any tile with Hills",        
+],         
+        "cities": ["Capracapitale", "Goatburg ", "Santa Fe","Goatham","Puebloalto","Caprivilla"]         
+},
 ]
