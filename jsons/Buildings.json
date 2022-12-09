@@ -49,7 +49,7 @@
 		"isNationalWonder": true,
 		"culture": 1,
 		"cost": 100,
-		"uniques": ["May choose [1] additional [Enhancing] beliefs when [Enhancing] a religion",
+		"uniques": ["May choose [1] additional [Enhancer] beliefs when [enhancing] a religion",
 ],
 		"requiredTech": "Writting"
         },
