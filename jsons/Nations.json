@@ -130,8 +130,8 @@
         "favoredReligion": "The Meta",         
         "uniqueName": "The Shepherds",
         "uniqueText": "Gain a free Pantheon belief after completing a Policy Tree
-                       +1 Faith from every Sheep
-                       Units ignore terrain costs when moving into any tile with Hills",
++1 Faith from every Sheep
+Units ignore terrain costs when moving into any tile with Hills",
         "uniques": ["[+1 Faith] from every [Sheep]", 
         "Units ignore terrain costs when moving into any tile with Hills",        
 ],         
