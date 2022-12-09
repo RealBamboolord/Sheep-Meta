@@ -42,6 +42,17 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	},
+{
+                "name": "Monument to the Goat God"
+		"replaces": "National Epic"
+		"uniqueTo": "Las cabras"
+		"isNationalWonder": true,
+		"culture": 1,
+		"cost": 100,
+		"uniques": ["May choose [1] additional [Enhancing] beliefs when [Enhancing] a religion",
+],
+		"requiredTech": "Writting"
+        },
 ////////////////Sheep Unit buildings//////////////////
 {
 "name": "Sheep Training",
@@ -105,4 +116,108 @@
 		"cost": 1,
 		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]", "Will not be displayed in Civilopedia"]
 	},
+{
+		"name": "Palace LC",
+                "replaces": "Palace"
+		"uniqueTo": "Las Cabras"
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city", "Gain a free [Sheep Training] [in this city]", "Will not be displayed in Civilopedia"]
+	},
+////////////////Buildings needed for a unique to work//////////////////
+{
+			"name": "Freebelief Tradition",
+			"uniqueTo": "Las Cabras",
+			"maintenance": 0,
+			"cost": 1,
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+						"Only available <after adopting [Tradition Complete]>", 
+						"Gain a free [Founder] belief"]
+		},
+		{
+			"name": "Freebelief Liberty",
+			"uniqueTo": "Las Cabras",
+			"maintenance": 0,
+			"cost": 1,
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+						"Only available <after adopting [Liberty Complete]>",
+						"Gain a free [Founder] belief"]
+		},
+		{
+			"name": "Freebelief Honor",
+			"uniqueTo": "Las Cabras",
+			"maintenance": 0,
+			"cost": 1,
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+						"Only available <after adopting [Honor Complete]>",
+						"Gain a free [Founder] belief"]
+		},
+		{
+			"name": "Freebelief Piety",
+			"uniqueTo": "Las Cabras",
+			"maintenance": 0,
+			"cost": 1,
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+						"Only available <after adopting [Piety Complete]>",
+						"Gain a free [Founder] belief"]
+		},
+		{
+			"name": "Freebelief Patronage",
+			"uniqueTo": "Las Cabras",
+			"maintenance": 0,
+			"cost": 1,
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+						"Only available <after adopting [Patronage Complete]>",
+						"Gain a free [Founder] belief"]
+		},
+		{
+			"name": "Freebelief Commerce",
+			"uniqueTo": "Las Cabras",
+			"maintenance": 0,
+			"cost": 1,
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+						"Only available <after adopting [Commerce Complete]>",
+						"Gain a free [Founder] belief"]
+		},
+		{
+			"name": "Freebelief Rationalism",
+			"uniqueTo": "Las Cabras",
+			"maintenance": 0,
+			"cost": 1,
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+						"Only available <after adopting [Rationalism Complete]>",
+						"Gain a free [Founder] belief"]
+		},
+		{
+			"name": "Freebelief Freedom",
+			"uniqueTo": "Las Cabras",
+			"maintenance": 0,
+			"cost": 1,
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+						"Only available <after adopting [Freedom Complete]>",
+						"Gain a free [Founder] belief"]
+		},
+		{
+			"name": "Freebelief Autocracy",
+			"uniqueTo": "Las Cabras",
+			"maintenance": 0,
+			"cost": 1,
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+						"Only available <after adopting [Autocracy Complete]>",
+						"Gain a free [Founder] belief"]
+		},
+		{
+			"name": "Freebelief Order",
+			"uniqueTo": "Las Cabras",
+			"maintenance": 0,
+			"cost": 1,
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+						"Only available <after adopting [Order Complete]>",
+						"Gain a free [Founder] belief"]
+		},
 ]
