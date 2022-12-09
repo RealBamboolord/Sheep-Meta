@@ -45,7 +45,7 @@
 {
                 "name": "Monument to the Goat God"
 		"replaces": "National Epic"
-		"uniqueTo": "Las cabras"
+		"uniqueTo": "Las Cabras"
 		"isNationalWonder": true,
 		"culture": 1,
 		"cost": 100,
