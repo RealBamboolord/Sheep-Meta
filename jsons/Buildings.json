@@ -49,7 +49,7 @@
 		"isNationalWonder": true,
 		"culture": 1,
 		"cost": 100,
-		"uniques": ["[Land Sheep] units receive the [Goats Glory] promotion","Free [Inquisitor] appears",
+		"uniques": ["[Land Sheep] units gain the [Goats Glory] promotion","Free [Inquisitor] appears",
 ],
 		"requiredTech": "Writing"
         },
