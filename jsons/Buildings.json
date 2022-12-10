@@ -137,7 +137,7 @@
 			"cost": 1,
 			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
 						"Only available <after adopting [Tradition Complete]>", 
-						"Gain a free [Founder] belief"]
+						"Gain a free [Pantheon] belief"]
 		},
 		{
 			"name": "Freebelief Liberty",
@@ -146,7 +146,7 @@
 			"cost": 1,
 			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
 						"Only available <after adopting [Liberty Complete]>",
-						"Gain a free [Founder] belief"]
+						"Gain a free [Pantheon] belief"]
 		},
 		{
 			"name": "Freebelief Honor",
@@ -155,7 +155,7 @@
 			"cost": 1,
 			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
 						"Only available <after adopting [Honor Complete]>",
-						"Gain a free [Founder] belief"]
+						"Gain a free [Pantheon] belief"]
 		},
 		{
 			"name": "Freebelief Piety",
@@ -173,7 +173,7 @@
 			"cost": 1,
 			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
 						"Only available <after adopting [Patronage Complete]>",
-						"Gain a free [Founder] belief"]
+						"Gain a free [Follower] belief"]
 		},
 		{
 			"name": "Freebelief Commerce",
@@ -182,7 +182,7 @@
 			"cost": 1,
 			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
 						"Only available <after adopting [Commerce Complete]>",
-						"Gain a free [Founder] belief"]
+						"Gain a free [Follower] belief"]
 		},
 		{
 			"name": "Freebelief Rationalism",
@@ -200,7 +200,7 @@
 			"cost": 1,
 			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
 						"Only available <after adopting [Freedom Complete]>",
-						"Gain a free [Founder] belief"]
+						"Gain a free [Enhancer] belief"]
 		},
 		{
 			"name": "Freebelief Autocracy",
@@ -209,7 +209,7 @@
 			"cost": 1,
 			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
 						"Only available <after adopting [Autocracy Complete]>",
-						"Gain a free [Founder] belief"]
+						"Gain a free [Enhancer] belief"]
 		},
 		{
 			"name": "Freebelief Order",
@@ -218,6 +218,6 @@
 			"cost": 1,
 			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
 						"Only available <after adopting [Order Complete]>",
-						"Gain a free [Founder] belief"]
+						"Gain a free [Enhancer] belief"]
 		},
 ]
