@@ -130,6 +130,10 @@
 "uniques": ["This Unit upgrades for free including special upgrades"],
 "unitTypes": ["Ancient"],
 },
+{
+"name": "Goats Glory"
+"uniques": ["Earn [50]% of killed [Land] unit's [Strength] as [Faith]","Earn [10]% of killed [Land] unit's [cost] as [Culture]"],
+},
 
 
 
