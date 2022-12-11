@@ -151,7 +151,7 @@
 	},
 	{
 		"name": "Trident Thrower Sheep",
-		"unitType": "Ranged Water",
+		"unitType": "Water Sheep",
 		"movement": 4,
 		"strength": 28,
 		"rangedStrength": 30,
