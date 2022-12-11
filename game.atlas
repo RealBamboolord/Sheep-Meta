@@ -11,51 +11,58 @@ BuildingIcons/MasterCrafts Grand Hall
   orig: 200, 200
   offset: 0, 0
   index: -1
+BuildingIcons/Monument to the Goat God
+  rotate: false
+  xy: 628, 270
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/Sheep School
   rotate: false
-  xy: 1044, 270
+  xy: 1044, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Absolute Sheeple
   rotate: false
-  xy: 1668, 370
+  xy: 1668, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Sheep Meta
   rotate: false
-  xy: 1668, 370
+  xy: 1668, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Welsheep
   rotate: false
-  xy: 1668, 370
+  xy: 1668, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/The Meta
   rotate: false
-  xy: 1668, 370
+  xy: 1668, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Las Cabras
   rotate: false
-  xy: 1884, 370
+  xy: 1884, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Las Ovejas
   rotate: false
-  xy: 1776, 154
+  xy: 1884, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -118,35 +125,35 @@ UnitIcons/Automated Shears
   index: -1
 UnitIcons/Baahlista
   rotate: false
-  xy: 1668, 262
+  xy: 1876, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Baannon
   rotate: false
-  xy: 1776, 370
+  xy: 1668, 54
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Baartillery
   rotate: false
-  xy: 1668, 154
+  xy: 1776, 162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Broke Ram
   rotate: false
-  xy: 1776, 262
+  xy: 1776, 54
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Steam Powered Ram
   rotate: false
-  xy: 1776, 262
+  xy: 1776, 54
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -216,77 +223,77 @@ UnitIcons/Steam Powered Sheep
   index: -1
 UnitIcons/Oil Powered Shieeep
   rotate: false
-  xy: 628, 270
+  xy: 628, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Ram Fossil
   rotate: false
-  xy: 628, 62
+  xy: 836, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Ranged sheep
   rotate: false
-  xy: 836, 270
+  xy: 836, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Sharper Shears
   rotate: false
-  xy: 836, 62
+  xy: 1044, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Shearman
   rotate: false
-  xy: 836, 62
+  xy: 1044, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Sheep Tower
   rotate: false
-  xy: 1044, 62
+  xy: 1252, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Shepherd
   rotate: false
-  xy: 1252, 270
+  xy: 1252, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Shieeep
   rotate: false
-  xy: 1252, 62
+  xy: 1460, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Shoopserver
   rotate: false
-  xy: 1460, 270
+  xy: 1460, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Trebusheep
   rotate: false
-  xy: 1884, 262
+  xy: 1884, 46
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Trident Thrower Sheep
   rotate: false
-  xy: 1460, 62
+  xy: 1668, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -300,63 +307,63 @@ UnitPromotionIcons/Bring it back to life
   index: -1
 UnitPromotionIcons/Fossil
   rotate: false
-  xy: 1668, 96
+  xy: 1984, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Greater Fury
   rotate: false
-  xy: 1992, 420
+  xy: 62, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Harvesting
   rotate: false
-  xy: 1884, 204
+  xy: 120, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Haycutting
   rotate: false
-  xy: 62, 4
+  xy: 178, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Heal The Sheep
   rotate: false
-  xy: 1726, 96
+  xy: 236, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Herd
   rotate: false
-  xy: 1992, 362
+  xy: 294, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Horns
   rotate: false
-  xy: 120, 4
+  xy: 352, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Reaping
   rotate: false
-  xy: 1784, 96
+  xy: 410, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Wisdom of the ancients
   rotate: false
-  xy: 1992, 304
+  xy: 468, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
