@@ -18,9 +18,16 @@ BuildingIcons/Sheep School
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Las Ovejas
+NationIcons/Las Cabras
   rotate: false
   xy: 1776, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Las Ovejas
+  rotate: false
+  xy: 1884, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -244,7 +251,7 @@ UnitIcons/Shoopserver
   index: -1
 UnitIcons/Trebusheep
   rotate: false
-  xy: 1884, 370
+  xy: 1776, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -272,56 +279,56 @@ UnitPromotionIcons/Fossil
   index: -1
 UnitPromotionIcons/Greater Fury
   rotate: false
-  xy: 1776, 204
+  xy: 1884, 312
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Harvesting
   rotate: false
-  xy: 1884, 312
+  xy: 1992, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Haycutting
   rotate: false
-  xy: 1992, 420
+  xy: 62, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Heal The Sheep
   rotate: false
-  xy: 62, 4
+  xy: 1726, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Herd
   rotate: false
-  xy: 120, 4
+  xy: 1884, 254
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Horns
   rotate: false
-  xy: 178, 4
+  xy: 120, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Reaping
   rotate: false
-  xy: 236, 4
+  xy: 1784, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Wisdom of the ancients
   rotate: false
-  xy: 294, 4
+  xy: 1884, 196
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
