@@ -2,137 +2,185 @@
 {
 		"name": "Heal The Sheep I",
 		"uniques": ["Heal this unit by [50] HP", "[+5] HP when healing <in [Foreign Land] tiles>"],
-		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"]
+        	"column": 1,
+        	"row": 1
 	},
 {
 		"name": "Heal The Sheep II",
                 "prerequisites": ["Heal The Sheep I"],
 		"uniques": ["Heal this unit by [70] HP", "[+5] HP when healing <in [Foreign Land] tiles>"],
 		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+        	"column": 1,
+        	"row": 2
 	},
 {
 		"name": "Heal The Sheep III",
                 "prerequisites": ["Heal The Sheep II", "Widder"],
 		"uniques": ["Heal this unit by [90] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep", "Ram Sheep"],
+        	"column": 1,
+        	"row": 3
 	},
 {
 		"name": "March",
 		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III","Herd III","Reaping","Trample III","Heal The Sheep II"],
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Mounted", "Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+        	"column": 0,
+        	"row": 4
 	},
 {
 "name": "Herd I",
 "uniques": ["[+15]% Strength <when defending>"],
 "unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+        	"column": 2,
+        	"row": 1
 },
 {
 "name": "Herd II",
 "prerequisites": ["Herd I"],
 "uniques": ["[+20]% Strength <vs [Ranged] units> <when defending>", "[+1] Sight"],
 "unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+        	"column": 2,
+        	"row": 2
 },
 {
 "name": "Herd III",
 "prerequisites": ["Herd II"],
 "uniques": ["[+15]% Strength"],
 "unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+        	"column": 2,
+        	"row": 3
 },
 {
 "name": "Trample I",
 "uniques": ["[+15]% Strength <when attacking>"],
 "unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+        	"column": 3,
+        	"row": 1
 },
 {
 "name": "Trample II",
 "prerequisites": ["Trample I"],
 "uniques": ["[+20]% Strength <vs [Ranged] units> <when attacking>", "No movement cost to pillage"],
 "unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+        	"column": 3,
+        	"row": 2
 },
 {
 "name": "Trample III",
 "prerequisites": ["Trample II"],
 "uniques": ["[+15]% Strength <when attacking>", "Double movement in [Forest]", "[+33]% to Flank Attack bonuses"],
 "unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
+        	"column": 3,
+        	"row": 3
 },
 {
 "name": "Haycutting",
 "prerequisites": ["Haycutting"],
 "uniques": ["[+10]% Strength <vs [Mounted] units>", "Access to Reaper promotions"],
 "unitTypes": ["Land Sheep"],
+        	"column": 4,
+        	"row": 1
 },
 {
 "name": "Harvesting",
 "prerequisites": ["Haycutting"],
 "uniques": ["Heals [10] damage if it kills a unit", "No movement cost to pillage"],
 "unitTypes": ["Land Sheep"],
+        	"column": 4,
+        	"row": 2
 },
 {
 "name": "Reaping",
 "prerequisites": ["Harvesting"],
 "uniques": ["Heals [20] damage if it kills a unit", "[+50]% Strength <vs [Wounded] units><when attacking>"]
 "unitTypes": ["Land Sheep"],
+        	"column": 4,
+        	"row": 3
 },
 ////////Ram////////
 {"name": "Widder",
 "prerequisites": ["Widder"],
 "uniques": ["[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "[-5]% Strength for enemy [City] units in adjacent [All] tiles"]
 "unitTypes": ["Ram Sheep"],
+        	"column": 5,
+        	"row": 1
 },
 {
 "name": "Charge",
 "prerequisites": ["Shock II","Drill II","Horns II"],
 "uniques": ["[+33]% Strength <vs [Wounded] units>"],
-"unitTypes": ["Mounted","Armored","Ram Sheep"]
+"unitTypes": ["Mounted","Armored","Ram Sheep"],
+        	"column": 5,
+        	"row": 2
 },
 {
 "name": "Horns I",
 "uniques":["[+10]% Strength <when attacking>"],
 "unitTypes": ["Ram Sheep"],
+        	"column": 6,
+        	"row": 1
 },
 {
 "name": "Horns II",
 "prerequisites": ["Horns I"],
 "uniques":["[+10]% Strength"],
 "unitTypes": ["Ram Sheep"],
+        	"column": 6,
+        	"row": 2
 },
 {
 "name": "Horns III",
 "prerequisites": ["Horns II"],
 "uniques":["[+15]% Strength <when attacking>"],
 "unitTypes": ["Ram Sheep"],
+        	"column": 6,
+        	"row": 3
 },
 {
 "name": "Restless Sprint",
 "prerequisites": ["Horns III"],
 "uniques":["[+1] Movement","Can move after attacking"],
 "unitTypes": ["Ram Sheep"],
+        	"column": 7,
+        	"row": 4
 },
 {
 "name": "Greater Fury",
 "prerequisites": ["Horns III"],
 "uniques":["[1] additional attacks per turn","[Great General] is earned [100]% faster"],
 "unitTypes": ["Ram Sheep"],
+        	"column": 7,
+        	"row": 5
 },
 ////////////Ancients/////////////
 {
 "name": "Wisdom of the ancients",
 "uniques":["[+1] Sight", "[+50]% XP gained from combat", "[-5] HP when healing", "May withdraw before melee ([20]%)"],
+        	"column": 8,
+        	"row": 1
 },
 {
 "name": "Fossil",
 "uniques":["[+25]% Strength <when defending> <in [Friendly Land] tiles>", "Earn [50]% of the damage done to [City] units as [Gold]"],
+        	"column": 8,
+        	"row": 2
 },
 {
 "name": "Bring it back to life",
 "prerequisites": ["Fossil","Wisdom of the ancients"],
 "uniques": ["This Unit upgrades for free including special upgrades"],
 "unitTypes": ["Ancient"],
+        	"column": 8,
+        	"row": 3
 },
 {
 "name": "Goats Glory"
 "uniques": ["Earn [50]% of killed [Land] unit's [Strength] as [Faith]","Earn [10]% of killed [Land] unit's [Cost] as [Culture]"],
+        	"column": 8,
+        	"row": 4
 },
 
 
