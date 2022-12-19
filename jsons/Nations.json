@@ -21,7 +21,7 @@
 	"tradeRequest": "This is better than you deserve, but let it not be said that I am an unfair man.",			
 
 	"outerColor": [79, 66, 46],	
-	"innerColor": [255, 255, 255],	
+	"innerColor": [200, 200, 200],	
 	"favoredReligion": "The Meta",	
 	"uniqueName": "Sheep Domination",	
 	"uniques": ["[+1 Food, +1 Production] from every [Sheep]", "[+15]% [Production] <while the empire is happy>"],	
@@ -100,7 +100,7 @@
 
 	"tradeRequest": "This is better than you deserve, but let it not be said that I am an unfair man.",			
 
-	"outerColor": [255, 255, 255],	
+	"outerColor": [220, 220, 220],	
 	"innerColor": [0, 150, 0],	
 	"favoredReligion": "The Meta",	
 	"uniqueName": "Shoop of Wales",	
@@ -130,8 +130,8 @@
         "favoredReligion": "The Meta",         
         "uniqueName": "The Shepherds",
         "uniqueText": "Gain free beliefs for completing Policy Trees
-+1 Faith from every Sheep
-Units ignore terrain costs when moving into any tile with Hills",
+			+1 Faith from every Sheep
+			Units ignore terrain costs when moving into any tile with Hills",
         "uniques": ["[+1 Faith] from every [Sheep]", 
         "Units ignore terrain costs when moving into any tile with Hills",        
 ],         
