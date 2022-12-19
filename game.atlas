@@ -46,27 +46,6 @@ NationIcons/Absolute Sheeple
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Sheep Meta
-  rotate: false
-  xy: 4, 62
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Welsheep
-  rotate: false
-  xy: 4, 62
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ReligionIcons/The Meta
-  rotate: false
-  xy: 4, 62
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Las Cabras
   rotate: false
   xy: 220, 62
@@ -77,6 +56,27 @@ NationIcons/Las Cabras
 NationIcons/Las Ovejas
   rotate: false
   xy: 1044, 678
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sheep Meta
+  rotate: false
+  xy: 1152, 786
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Welsheep
+  rotate: false
+  xy: 1152, 678
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Meta
+  rotate: false
+  xy: 1260, 894
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -300,7 +300,7 @@ UnitIcons/Shoopserver
   index: -1
 UnitIcons/Trebusheep
   rotate: false
-  xy: 1152, 786
+  xy: 328, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -349,28 +349,28 @@ UnitPromotionIcons/Haycutting
   index: -1
 UnitPromotionIcons/Heal The Sheep
   rotate: false
-  xy: 1260, 944
+  xy: 1044, 620
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Herd
   rotate: false
-  xy: 328, 112
+  xy: 1260, 836
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Horns
   rotate: false
-  xy: 1044, 620
+  xy: 1368, 944
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Reaping
   rotate: false
-  xy: 1152, 728
+  xy: 436, 112
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
