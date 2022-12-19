@@ -101,7 +101,7 @@
 	"tradeRequest": "This is better than you deserve, but let it not be said that I am an unfair man.",			
 
 	"outerColor": [255, 255, 255],	
-	"innerColor": [0, 255, 0],	
+	"innerColor": [0, 150, 0],	
 	"favoredReligion": "The Meta",	
 	"uniqueName": "Shoop of Wales",	
 	"uniques": ["[+1 Science, +1 Gold] from every [Sheep]", "[+10]% [Science] <while the empire is happy>"],
