@@ -1,7 +1,7 @@
 [
 {
 		"name": "Heal The Sheep I",
-		"uniques": ["Heal this unit by [50] HP", "[+5] HP when healing <in [Foreign Land] tiles>"],
+		"uniques": ["[This Unit] heals [50] HP", "[+5] HP when healing <in [Foreign Land] tiles>"],
 		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"]
         	"column": 1,
         	"row": 1
@@ -9,7 +9,7 @@
 {
 		"name": "Heal The Sheep II",
                 "prerequisites": ["Heal The Sheep I"],
-		"uniques": ["Heal this unit by [70] HP", "[+5] HP when healing <in [Foreign Land] tiles>"],
+		"uniques": ["[This Unit] heals [70] HP", "[+5] HP when healing <in [Foreign Land] tiles>"],
 		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep"],
         	"column": 1,
         	"row": 2
@@ -17,7 +17,7 @@
 {
 		"name": "Heal The Sheep III",
                 "prerequisites": ["Heal The Sheep II", "Widder"],
-		"uniques": ["Heal this unit by [90] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[This Unit] heals [90] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Land Sheep", "Water Sheep", "Air Sheep", "Airborne Sheep", "Ram Sheep"],
         	"column": 1,
         	"row": 3
@@ -158,7 +158,7 @@
 ////////////Ancients/////////////
 {
 "name": "Wisdom of the ancients",
-"uniques":["[+1] Sight", "[+50]% XP gained from combat", "[-5] HP when healing", "May withdraw before melee ([20]%)"],
+"uniques":["[+1] Sight", "[+50]% XP gained from combat", "[-5] HP when healing", "Withdraws before melee combat <with [20]% chance>"],
         	"column": 8,
         	"row": 1
 },
@@ -171,7 +171,7 @@
 {
 "name": "Bring it back to life",
 "prerequisites": ["Fossil","Wisdom of the ancients"],
-"uniques": ["This Unit upgrades for free including special upgrades"],
+"uniques": ["[This Unit] upgrades for free including special upgrades"],
 "unitTypes": ["Ancient"],
         	"column": 8,
         	"row": 3

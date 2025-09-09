@@ -8,7 +8,7 @@
 		"cost": 50,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["[+25]% Production when constructing [Land] units [in this city]", "New [Military] units start with [5] Experience [in this city]"]	
+		"uniques": ["[+25]% Production when constructing [Land] units [in this city]", "New [Military] units start with [5] XP [in this city]"]	
 },
 {
 		"name": "MasterCrafts Grand Hall"
@@ -61,7 +61,7 @@
 "Allows production of Sheep Units", 
 "Destroyed when the city is captured", 
 "Unbuildable", 
-"New [Sheep] units start with [15] Experience [in this city]",
+"New [Sheep] units start with [15] XP [in this city]",
 "Will not be displayed in Civilopedia"]
 },
 {
@@ -135,7 +135,7 @@
 			"uniqueTo": "Las Cabras",
 			"maintenance": 0,
 			"cost": 1,
-			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built <in [in capital] cities>", "Never destroyed when the city is captured",
 						"Only available <after adopting [Tradition Complete]>", 
 						"Gain a free [Pantheon] belief"]
 		},
@@ -144,7 +144,7 @@
 			"uniqueTo": "Las Cabras",
 			"maintenance": 0,
 			"cost": 1,
-			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built <in [in capital] cities>", "Never destroyed when the city is captured",
 						"Only available <after adopting [Liberty Complete]>",
 						"Gain a free [Pantheon] belief"]
 		},
@@ -153,7 +153,7 @@
 			"uniqueTo": "Las Cabras",
 			"maintenance": 0,
 			"cost": 1,
-			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built <in [in capital] cities>", "Never destroyed when the city is captured",
 						"Only available <after adopting [Honor Complete]>",
 						"Gain a free [Pantheon] belief"]
 		},
@@ -162,7 +162,7 @@
 			"uniqueTo": "Las Cabras",
 			"maintenance": 0,
 			"cost": 1,
-			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built <in [in capital] cities>", "Never destroyed when the city is captured",
 						"Only available <after adopting [Piety Complete]>",
 						"Gain a free [Founder] belief"]
 		},
@@ -171,7 +171,7 @@
 			"uniqueTo": "Las Cabras",
 			"maintenance": 0,
 			"cost": 1,
-			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built <in [in capital] cities>", "Never destroyed when the city is captured",
 						"Only available <after adopting [Patronage Complete]>",
 						"Gain a free [Follower] belief"]
 		},
@@ -180,7 +180,7 @@
 			"uniqueTo": "Las Cabras",
 			"maintenance": 0,
 			"cost": 1,
-			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built <in [in capital] cities>", "Never destroyed when the city is captured",
 						"Only available <after adopting [Commerce Complete]>",
 						"Gain a free [Follower] belief"]
 		},
@@ -189,7 +189,7 @@
 			"uniqueTo": "Las Cabras",
 			"maintenance": 0,
 			"cost": 1,
-			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built <in [in capital] cities>", "Never destroyed when the city is captured",
 						"Only available <after adopting [Rationalism Complete]>",
 						"Gain a free [Founder] belief"]
 		},
@@ -198,7 +198,7 @@
 			"uniqueTo": "Las Cabras",
 			"maintenance": 0,
 			"cost": 1,
-			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built <in [in capital] cities>", "Never destroyed when the city is captured",
 						"Only available <after adopting [Freedom Complete]>",
 						"Gain a free [Enhancer] belief"]
 		},
@@ -207,7 +207,7 @@
 			"uniqueTo": "Las Cabras",
 			"maintenance": 0,
 			"cost": 1,
-			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built <in [in capital] cities>", "Never destroyed when the city is captured",
 						"Only available <after adopting [Autocracy Complete]>",
 						"Gain a free [Enhancer] belief"]
 		},
@@ -216,7 +216,7 @@
 			"uniqueTo": "Las Cabras",
 			"maintenance": 0,
 			"cost": 1,
-			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built [in capital]", "Never destroyed when the city is captured",
+			"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Can only be built <in [in capital] cities>", "Never destroyed when the city is captured",
 						"Only available <after adopting [Order Complete]>",
 						"Gain a free [Enhancer] belief"]
 		},
