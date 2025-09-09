@@ -58,13 +58,13 @@
 },
 {
 "name": "Haycutting",
-"prerequisites": ["Haycutting"],
-"uniques": ["[+10]% Strength <vs [Mounted] units>", "Comment [Access to Reaper promotions]"],
+"uniques": ["Only available <for units with [Haycutting]>","[+10]% Strength <vs [Mounted] units>", "Comment [Access to Reaper promotions]"],
 "unitTypes": ["Land Sheep"],
 },
 {
 "name": "Harvesting",
-"uniques": ["Only available <for units with [Haycutting]>","Heals [10] damage if it kills a unit", "No movement cost to pillage"],
+"prerequisites": ["Haycutting"],
+"uniques": ["Heals [10] damage if it kills a unit", "No movement cost to pillage"],
 "unitTypes": ["Land Sheep"],
 },
 {
