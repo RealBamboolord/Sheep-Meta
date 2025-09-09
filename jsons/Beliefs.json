@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Divine Wool",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from every [Sheep]"]
+    },
+    {
+        "name": "Towers of Wool",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food, +1 Production, +1 Gold] in cities on [Sheep] tiles"]
+    },
+    {
+        "name": "Wool of the Ancients",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture] from every [Sheep]"]
+    },
+    {
+        "name": "Armed Wool",
+        "type": "Pantheon",
+        "uniques": ["New [Sheep] units start with [10] XP [in this city]","[+15]% Production when constructing [{Land} {Sheep}] units [in this city]"]
+    },
+    {
+        "name": "Call of the Wool",
+        "type": "Pantheon",
+        "uniques": ["[+15]% Production when constructing [{Land} {Sheep}] units [in this city]"]
+    },
+    
+
+  //"May buy [Melee] units with [Culture] for [3] times their normal Production cost"
+  //No Maintenance costs for improvements in [tileFilter] tiles
+  //Enemy [mapUnitFilter] units must spend [positiveAmount] extra movement points when inside your territory
+]
