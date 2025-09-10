@@ -24,6 +24,11 @@
         "type": "Pantheon",
         "uniques": ["[+15]% Production when constructing [{Land} {Sheep}] units [in this city]"]
     },
+    {
+        "name": "Shaun the Sheep",
+        "type": "Founder",
+        "uniques": ["Enemy [non-[Sheep]] units must spend [1] extra movement points when inside your territory", ""]
+    },
     
 
   //"May buy [Melee] units with [Culture] for [3] times their normal Production cost"
